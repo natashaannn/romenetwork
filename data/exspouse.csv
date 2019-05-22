@@ -1,0 +1,52 @@
+
+id,name,nomen,sex,exspouse
+1134,AEMI1134 L. Aemilius (114) L. f. M. n. Paullus Macedonicus,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4201
+1746,CORN1746 L. Cornelius (392) L. f. P. n. Sulla Felix ('Epaphroditus'),Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4285
+1746,CORN1746 L. Cornelius (392) L. f. P. n. Sulla Felix ('Epaphroditus'),Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4287
+1903,LICI1903 L. Licinius (104) L. f. L. n. Lucullus Ponticus,Licinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3958
+1903,LICI1903 L. Licinius (104) L. f. L. n. Lucullus Ponticus,Licinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4097
+1957,IULI1957 C. Iulius (131) C. f. C. n. Fab. Caesar,Iulius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3877
+1974,PUPI1974 M. Pupius (10) M. f. Piso Frugi Calpurnianus,Pupius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4359
+1976,POMP1976 Cn. Pompeius (31) Cn. f. Sex. n. Clu. Magnus,Pompeius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3908
+1976,POMP1976 Cn. Pompeius (31) Cn. f. Sex. n. Clu. Magnus,Pompeius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4277
+1993,AEMI1993 M. Aemilius (72) Q. f. M. n. Pal. Lepidus,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4242
+2072,TULL2072 M. Tullius (29) M. f. M. n. Cor. Cicero,Tullius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3940
+2072,TULL2072 M. Tullius (29) M. f. M. n. Cor. Cicero,Tullius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4004
+2216,TULL2216 Q. Tullius (31) M. f. M. n. Cor. Cicero,Tullius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3966
+2241,PORC2241 M. Porcius (16) M. f. M. n. Pap. Cato (Uticensis),Porcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4260
+2261,MEMM2261 C. Memmius (8),Memmius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3920
+2392,ANTO2392 M. Antonius (30) M. f. M. n.,Antonius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3909
+2392,ANTO2392 M. Antonius (30) M. f. M. n.,Antonius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4110
+2394,CORN2394 P. Cornelius (239) P. f. Lentulus Spinther,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3988
+2459,IUNI2459 M. Iunius (53) M. f. Brutus = Q. Servilius Caepio Brutus,Iunius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4008
+2499,FURI2499 -. Furius (54) Crassipes,Furius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3928
+2515,CORN2515 P. Cornelius (141) P. f. Dolabella = P. Cornelius Lentulus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3928
+2515,CORN2515 P. Cornelius (141) P. f. Dolabella = P. Cornelius Lentulus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4069
+2571,CLAU2571 Ti. Claudius (254) Ti. f. Ap. n. Nero,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4192
+2597,IULI2597 C. Iulius (132) C. f. C. n. Fab. Caesar Octavianus = C. Octavius C. f. Sca. Thurinus (or Caepias),Iulius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3906
+2597,IULI2597 C. Iulius (132) C. f. C. n. Fab. Caesar Octavianus = C. Octavius C. f. Sca. Thurinus (or Caepias),Iulius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4190
+3877,POMP3877  Pompeia (52),Pompeia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1957
+3906,SCRI3906  Scribonia (32),Scribonia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2597
+3908,MUCI3908  Mucia (28) Tertia,Mucia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1976
+3909,OCTA3909  Octavia (96) minor,Octavia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2392
+3920,CORN3920  Cornelia (436) = Fausta Cornelia,Cornelia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2261
+3928,TULL3928  Tullia (60),Tullia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2499
+3928,TULL3928  Tullia (60),Tullia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2515
+3940,TERE3940  Terentia (95),Terentia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2072
+3958,SERV3958  Servilia (102),Servilia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1903
+3966,POMP3966  Pomponia (A),Pomponia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2216
+3988,CAEC3988  Caecilia (137) Metella,Caecilia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2394
+4004,PUBL4004  Publilia (17),Publilia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2072
+4008,CLAU4008  Claudia (389),Claudia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2459
+4069,FABI4069  Fabia (173),Fabia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2515
+4097,CLOD4097  Clodia (67),Clodia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1903
+4110,ANTO4110  Antonia (110),Antonia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2392
+4190,CLAU4190  Claudia (390),Claudia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2597
+4192,LIVI4192  Livia (37),Livia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2571
+4201,PAPI4201  Papiria (78),Papiria,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1134
+4242,APPU4242  Appuleia (32),Appuleia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1993
+4260,ATIL4260  Atilia (79),Atilia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2241
+4277,ANTI4277  Antistia (60),Antistia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1976
+4285,CLOE4285  Cloelia (14),Cloelia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1746
+4287,AELI4287  Aelia (164),Aelia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1746
+4359,ANNI4359  Annia (101),Annia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1974

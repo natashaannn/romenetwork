@@ -1,0 +1,1419 @@
+
+id,name,nomen,sex,parent
+3,VALE0003 P. Valerius (302) Volus. f. - n. Poplicola,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4883
+13,VALE0013 M. Valerius (74) Volus. f. (Volusus),Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4883
+22,VALE0022 M'. Valerius (65) M. f. Volus. n.,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,13
+23,SULP0023 Ser. Sulpicius (35) P. f. - n. Camerinus Cornutus,Sulpicius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4930
+32,CLAU0032 Ap. Claudius (321) M. f. Sabinus Inregillensis,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4781
+37,VALE0037 M'. Valerius (243) Volus. f. Maximus,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4883
+51,VALE0051 P. Valerius (301) P. f. Volus. n. Poplicola,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3
+55,SULP0055 Q. Sulpicius (33) Camerinus Cornutus,Sulpicius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4930
+76,CORN0076 Ser. Cornelius (253) Maluginensis Tricostus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4804
+79,VALE0079 L. Valerius (380) M. f. Volus. n. Potitus,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,13
+113,CLAU0113 Ap. Claudius (123) Ap. f. M. n. Crassinus Inregillensis Sabinus,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,32
+114,QUIN0114 T. Quinctius (24) (L. f. L. n.) Capitolinus Barbatus,Quinctius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4870
+116,AEMI0116 Ti. Aemilius (99) L. f. Mam. n. Mamercus,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,80
+122,VERG0122 A. Verginius (13) (Tricostus) Caeliomontanus,Verginius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,35
+124,FABI0124 Q. Fabius (165) M. f. K. n. Vibulanus,Fabius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4810
+134,VETU0134 T. Veturius (18) T. f. - n. Geminus Cicurinus,Veturius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,36
+138,SULP0138 Ser. (or P.) Sulpicius (36) - f. Ser. n. Camerinus Cornutus,Sulpicius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,23
+141,CLAU0141 C. Claudius (322) Ap. f. M. n. Crassus Inregillensis Sabinus,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,32
+142,QUIN0142 L. Quinctius (27) L. f. L. n. Cincinnatus,Quinctius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4870
+143,CORN0143 L. Cornelius (256) Ser. f. P. n. Maluginensis Uritinus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,76
+149,VALE0149 M. Valerius (246) M'. f. Volus. n. Maximus (Lactuca),Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,37
+153,VERG0153 Sp. Verginius (20) A. f. A. n. Tricostus Caeliomontanus,Verginius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,35
+163,QUIN0163 Sex. Quinctilius (15) Sex. f. P. n.,Quinctilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4898
+173,CORN0173 M. Cornelius (246) - f. Ser. n. Maluginensis,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,143
+180,VALE0180 L. Valerius (304) P. f. P. n. Potitus Potitus,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,51
+196,VERG0196 T. Verginius (23) Tricostus Caeliomontanus,Verginius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,153
+214,FABI0214 M. Fabius (162) (Q. f. M. n.) Vibulanus,Fabius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,124
+231,QUIN0231 L. Quinctius (28) L. f. L. n. Cincinnatus,Quinctius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,142
+231,QUIN0231 L. Quinctius (28) L. f. L. n. Cincinnatus,Quinctius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,5019
+238,VALE0238 M. Valerius (206) M. f. M'. n. Lactuca (or Lactucinus) Maximus,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,149
+239,CORN0239 A. Cornelius (112) M. f. L. n. Cossus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,173
+241,CORN0241 M. Cornelius (247) (M. f. L. n.) Maluginensis,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,173
+243,VERG0243 L. Verginius (14) Tricostus,Verginius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,107
+246,SULP0246 Q. Sulpicius (37) Ser. ? f. - n. Camerinus Praetextatus,Sulpicius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,138
+254,QUIN0254 T. Quinctius (34) L. f. L. n. Pennus Cincinnatus,Quinctius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,142
+254,QUIN0254 T. Quinctius (34) L. f. L. n. Pennus Cincinnatus,Quinctius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,5019
+269,"SEMP0269 A. Sempronius (22, cf. 2) L. f. A. n. Atratinus",Sempronius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,209
+274,SEMP0274 C. Sempronius (24) Atratinus,Sempronius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,213
+285,QUIN0285 T. Quinctius (25) T. f. L. n. Capitolinus Barbatus,Quinctius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,114
+297,VETU0297 Sp. Veturius (14) Sp. f. Sp. n. Crassus Cicurinus,Veturius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,169
+301,VALE0301 C. Valerius (309) L. f. Volus. n. Potitus Volusus,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4952
+303,QUIN0303 Q. Quinctius (30) L. f. L. n. Cincinnatus,Quinctius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,142
+303,QUIN0303 Q. Quinctius (30) L. f. L. n. Cincinnatus,Quinctius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,5019
+305,CORN0305 Cn. Cornelius (116) A. f. M. n. Cossus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,239
+306,VALE0306 L. Valerius (307) L. f. P. n. Potitus,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,180
+311,"FABI0311 Q. Fabius (166, cf. 46) Vibulanus",Fabius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,124
+312,FURI0312 C. Furius (74) Pacilus,Furius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,219
+322,"FABI0322 K. Fabius (42, cf. 39, 48) M. f. Q. n. Ambustus",Fabius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,214
+326,CORN0326 P. Cornelius (119) A. f. M. n. Cossus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,239
+328,CORN0328 P. Cornelius (307) M. f. L. n. Rutilus Cossus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,173
+329,FABI0329 N. (or Cn.) Fabius (163) Q. f. M. n. Vibulanus,Fabius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,124
+330,CORN0330 Cn. Cornelius (117) P. f. A. n. Cossus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,300
+334,"CORN0334 P. Cornelius (250, cf. 39) (M. f. M. n.) Maluginensis",Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,241
+335,CLAU0335 Ap. Claudius (122) P. f. Ap. n. Crassus Inregillensis,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4782
+336,QUIN0336 M. Quinctilius (9) L. f. L. n. Varus,Quinctilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4955
+343,VERG0343 L. Verginius (15) L. f. Opet. n. Tricostus Esquilinus,Verginius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,243
+344,SULP0344 Q. Sulpicius (34) Ser. f. Ser. n. Camerinus Cornutus,Sulpicius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4936
+355,MANL0355 P. Manlius (97) M. f. Cn. n. Vulso,Manlius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,286
+366,VALE0366 M. Valerius (207) M. f. M. n. Lactucinus Maximus,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,238
+373,CORN0373 P. Cornelius (252) P. f. M. n. Maluginensis,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,334
+381,VALE0381 L. Valerius (298) L. f. L. n. Poplicola,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,306
+388,"SULP0388 Ser. Sulpicius (31, cf. 94) Q. f. Ser. n. Camerinus Rufus",Sulpicius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,246
+390,CORN0390 M. Cornelius (248) P. f. M. n. Maluginensis,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,334
+391,MANL0391 M. Manlius (51) T. f. A. n. Arn. Sab. Tro. Ste. Capitolinus,Manlius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4954
+400,FABI0400 N. Fabius (45) M. f. Q. n. Ambustus,Fabius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,214
+401,SULP0401 Q. Sulpicius (76) Longus,Sulpicius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,246
+406,MANL0406 A. Manlius (9) T. f. A. n. Capitolinus,Manlius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4954
+414,FURI0414 L. Furius (41) M. f. L. n. Camillus,Furius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,340
+415,QUIN0415 T. Quinctius (32) (T. f. L. n.) Cincinnatus Capitolinus,Quinctius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,254
+415,QUIN0415 T. Quinctius (32) (T. f. L. n.) Cincinnatus Capitolinus,Quinctius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,291
+426,CORN0426 Ser. Cornelius (254) P. f. M. n. Maluginensis,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,334
+427,QUIN0427 L. Quinctius (29) (- f. - n.) Cincinnatus,Quinctius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,231
+429,VALE0429 P. Valerius (308) L. f. L. n. Potitus Poplicola,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,306
+444,FABI0444 M. Fabius (43) K. f. M. n. Ambustus,Fabius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,322
+445,SULP0445 C. Sulpicius (83) M. f. Q. n. Peticus,Sulpicius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4980
+450,MANL0450 P. Manlius (52) A. f. A. n. Capitolinus,Manlius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,332
+465,SULP0465 Ser. Sulpicius (88) Praetextatus Praetextatus,Sulpicius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,388
+475,QUIN0475 Q. Quinctius (31) (Cincinnatus),Quinctius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,303
+483,QUIN0483 T. Quinctius (35) Pennus Capitolinus Crispinus,Quinctius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,415
+486,FURI0486 Sp. Furius (48) M. f. L. n. Camillus,Furius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,340
+487,QUIN0487 Cn. Quinctius (22) T. f. T. n. Capitolinus,Quinctius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,483
+493,MANL0493 L. Manlius (54) A. f. A. n. Capitolinus Imperiosus,Manlius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,406
+497,MANL0497 T. Manlius (57) L. f. A. n. Imperiosus Torquatus,Manlius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,493
+498,FABI0498 M. Fabius (44) N. f. M. n. Ambustus,Fabius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,400
+499,POET0499 C. Poetelius (7) C. f. Q. n. Libo Visolus,Poetelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4986
+500,MANL0500 Cn. Manlius (53) L. f. A. n. Capitolinus Imperiosus,Manlius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,493
+501,FABI0501 C. Fabius (40) N. f. M. n. Ambustus,Fabius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,400
+503,VALE0503 M. Valerius (299) L. f. L. n. Poplicola,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,381
+510,CORN0510 A. Cornelius (122) P. f. A. n. Cossus Arvina,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,326
+511,VALE0511 P. Valerius (300) P. f. L. n. Poplicola,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,429
+513,CORN0513 L. Cornelius (322) P. f. Scipio,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,376
+519,CORN0519 P. Cornelius (329) P. f.  Scipio,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,376
+522,VALE0522 M. Valerius (137) M. f. M. n. Maximus Corvus,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4959
+525,SULP0525 Ser. Sulpicius (38) Camerinus Rufus,Sulpicius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,465
+526,FURI0526 L. Furius (42) Sp. f. M. n. Camillus,Furius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,486
+529,AEMI0529 L. Aemilius (101) L. f. L. n. Mamercinus Privernas,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,484
+534,PAPI0534 L. Papirius (52) Sp. f. L. n. Cursor,Papirius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4989
+541,SULP0541 C. Sulpicius (75) Ser. f. Q. n. Longus,Sulpicius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4965
+543,CLAU0543 C. Claudius (183) (Ap. f. P. n. Crassus) Inregillensis,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,335
+546,DUIL0546 K. Duillius (5),Duillius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4808
+556,VALE0556 C. Valerius (306) L. f. L. n. Potitus,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,381
+559,FABI0559 Q. Fabius (114) M. f. N. n. Maximus Rullianus,Fabius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,498
+568,QUIN0568 L. Quinctius (11),Quinctius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,487
+570,VALE0570 M. Valerius (244) M. f. M. n. Maximus Corvinus,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,522
+580,LIVI0580 L. Livius (4),Livius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,624
+584,PLAU0584 L. Plautius (34) L. f. L. n. Venox or Venno or Venno,Plautius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,560
+591,CLAU0591 Ap. Claudius (91) C. f. Ap. n. Caecus,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,543
+593,POET0593 M. Poetelius (6) M. f. M. n. Libo,Poetelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4991
+596,DECI0596 P. Decius (16) P. f. Q. n. Mus,Decius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,515
+601,MARC0601 C. Marcius (98) C. f. L. n. Rutilus Censorinus,Marcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,505
+604,FABI0604 K. Fabius (19) M. f. N. n. (Maximus),Fabius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,498
+611,CORN0611 P. Cornelius (66) A. f. P. n. Arvina,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,510
+615,FULV0615 M. Fulvius (47) L. f. L. n. Curvus Paetinus,Fulvius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,572
+622,CORN0622 Ser. Cornelius (206) Cn. f. Cn. n. Lentulus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,5171
+624,LIVI0624 M. Livius (11) - f. C. n. Denter,Livius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3349
+628,CORN0628 L. Cornelius (343) Cn. f. Scipio Barbatus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,5172
+634,MINU0634 M. Minucius (42) Faesus,Minucius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,614
+638,DOMI0638 Cn. Domitius (45) Cn. f. Cn. n. Calvinus Maximus,Domitius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,552
+640,PAPI0640 L. Papirius (53) L. f. Sp. n. Cursor,Papirius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,534
+642,FABI0642 Q. Fabius (112) Q. f. M. n. Maximus Gurges,Fabius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,559
+645,FULV0645 C. Fulvius (45) Curvus,Fulvius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,615
+647,ATIL0647 M. Atilius (50) M. f. M. n. Regulus,Atilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,547
+658,CORN0658 P. Cornelius (302) Cn. f. P. n. Rufinus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,550
+662,CLAU0662 M. Claudius (219) (M. f. C. n.) Marcellus,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,557
+669,AEMI0669 M. Aemilius (65) Lepidus,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4754
+680,AEMI0680 L. Aemilius (31) Q. f. Q. n. Barbula,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,588
+681,MARC0681 Q. Marcius (78) Q. f. Q. n. Philippus,Marcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,610
+682,VALE0682 P. Valerius (213) Laevinus,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,556
+684,SULP0684 P. Sulpicius (98) P. f. Ser. n. Saverrio,Sulpicius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,617
+685,DECI0685 P. Decius (17) P. f. P. n. Mus,Decius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,596
+688,CORN0688 L. Cornelius (210) Ti. f. Ser. n. Lentulus Caudinus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4803
+692,FABI0692 N. Fabius (124) C. f. M. n. Pictor,Fabius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4816
+696,QUIN0696 K. Quinctius (36) L. f. Cn. n. Claudus,Quinctius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,487
+699,FULV0699 M. Fulvius (55) Q. f. M. n. Flaccus,Fulvius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,645
+700,FABI0700 C. Fabius (123) C. f. M. n. Pictor,Fabius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4816
+702,CLAU0702 Ap. Claudius (317) Ap. f. C. n. Russus,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,591
+707,IUNI0707 D. Iunius (124) D. f. D. n. Pera,Iunius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4212
+709,FABI0709 Q. Fabius (cf. 112) Q. f. Q. n. Maximus Gurges,Fabius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,642
+712,FABI0712 Q. Fabius (116) Q. f. Q. n. Fal. Pup. Maximus Ovicula Verrucosus Cunctator,Fabius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,498
+713,CLAU0713 Ap. Claudius (102) C. f. Ap. n. Caudex,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,543
+716,VALE0716 M'. Valerius (247) M. f. M. n. Maximus Messalla,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,570
+718,POST0718 L. Postumius (56) L. f. L. n. Megellus,Postumius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,609
+722,CORN0722 L. Cornelius (323) L. f. Cn. n. Scipio,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,628
+723,CORN0723 Cn. Cornelius (341) L. f. Cn. n. Scipio Asina,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,628
+727,ATIL0727 A. Atilius (36) A. f. C. n. Caiatinus,Atilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3943
+727,ATIL0727 A. Atilius (36) A. f. C. n. Caiatinus,Atilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4350
+735,CAED0735 Q. Caedicius (8) Q. f. Q. n.,Caedicius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,660
+742,SERV0742 Cn. Servilius (43) Cn. f. Cn. n. Caepio,Servilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4996
+744,CLAU0744 P. Claudius (304) Ap. f. C. n. Pulcher,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,591
+747,SERV0747 P. Servilius (62) Q. f. Cn. n. Geminus,Servilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4963
+751,CAEC0751 L. Caecilius (72) L. f. C. n. Metellus,Caecilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,673
+752,CORN0752 P. Cornelius (382) P. f. Sulla,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,658
+757,FABI0757 N. Fabius (55) M. f. M. n. Buteo,Fabius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3942
+760,FABI0760 M. Fabius (94) C. f. M. n. Licinus,Fabius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,691
+762,FABI0762 M. Fabius (53) M. f. M. n. Buteo,Fabius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3942
+767,VALE0767 Q. Valerius (157) Q. f. P. n. Falto,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4997
+776,CLAU0776 C. Claudius (104) Ap. f. C. n. Centho,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,591
+779,VALE0779 P. Valerius (155) Q. f. P. n. Falto,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4997
+780,CORN0780 L. Cornelius (211) L. f. Ti. n. Lentulus Caudinus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,688
+781,FULV0781 Q. Fulvius (59) M. f. Q. n. Flaccus,Fulvius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,699
+782,CORN0782 P. Cornelius (213) L. f. Ti. n. Lentulus Caudinus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,688
+783,LICI0783 C. Licinius (174) P. f. P. n. Varus,Licinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4998
+785,AEMI0785 M'. Aemilius (103) M'. f. (Lepidus) Numida,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4753
+786,LIVI0786 M. Livius (32) M. f. M. n. Salinator,Livius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4992
+788,POST0788 L. Postumius (40) A. f. A. n. Albinus,Postumius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,766
+789,CARV0789 Sp. Carvilius (10) Sp. f. C. n. Maximus (Ruga),Carvilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,649
+791,POMP0791 M'. Pomponius (17) M'. f. M'. n. Matho,Pomponius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,5000
+793,FLAM0793 C. Flaminius (2) C. f. L. n.,Flaminius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4090
+796,AEMI0796 M. Aemilius (33) L. f. Q. n. Barbula,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,680
+797,IUNI0797 M. Iunius (126) D. f. D. n. Pera,Iunius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,707
+799,CORU0799 C. Coruncanius (1),Coruncanius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,683
+800,CORU0800 L. Coruncanius (2),Coruncanius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,683
+805,VALE0805 P. Valerius (181) L. f. M. n. Flaccus,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,720
+806,ATIL0806 M. Atilius (52) M. f. M. n. Regulus,Atilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,703
+806,ATIL0806 M. Atilius (52) M. f. M. n. Regulus,Atilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3861
+807,VALE0807 M. Valerius (211) P. f. P. n. Laevinus,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4994
+808,VALE0808 M. Valerius (251) M'. f. M. n. (Maximus) Messalla,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,716
+810,CLAU0810 M. Claudius (220) M. f. M. n. Marcellus,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4802
+817,CORN0817 Cn. Cornelius (345) L. f. L. n. Scipio Calvus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,722
+819,CORN0819 P. Cornelius (342) (Cn. f. L. n.) Scipio Asina,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,723
+823,LUTA0823 C. Lutatius (5) C. f. C. n. Catulus,Lutatius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,765
+826,AEMI0826 L. Aemilius (118) M. f. M. n. Paullus,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,739
+827,LIVI0827 M. Livius (33) M. f. M. n. Pol. Salinator,Livius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,786
+828,FURI0828 L. Furius (36) Bibaculus,Furius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,831
+832,CORN0832 P. Cornelius (330) L. f. L. n. Scipio,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,722
+836,MANL0836 L. Manlius (92) (Vulso),Manlius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,734
+845,SERV0845 C. Servilius (59) (Geminus),Servilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,747
+852,SERV0852 Cn. Servilius (61) P. f. Q. n. Geminus,Servilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,747
+853,POMP0853 M. Pomponius (18) M'. f. M'. n. Matho,Pomponius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,5000
+856,OTAC0856 T. Otacilius (12) Crassus,Otacilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,721
+857,POMP0857 -. Pomponius (20) (Matho),Pomponius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,791
+857,POMP0857 -. Pomponius (20) (Matho),Pomponius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,853
+858,CLAU0858 Ap. Claudius (293) P. f. Ap. n. Pulcher,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,744
+865,QUIN0865 K. Quinctius (41) Flamininus,Quinctius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,696
+866,SEMP0866 Ti. Sempronius (51) Ti. f. Ti. n. Gracchus,Sempronius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,761
+877,CORN0877 Cn. Cornelius (176) L. f. L. n. Lentulus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,780
+878,CORN0878 P. Cornelius (336) P. f. L. n. Scipio Africanus Maior,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,832
+878,CORN0878 P. Cornelius (336) P. f. L. n. Scipio Africanus Maior,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4246
+879,FABI0879 Q. Fabius (103) Q. f. Q. n. Maximus,Fabius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,712
+880,OCTA0880 Cn. Octavius (16),Octavius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4298
+885,IUNI0885 M. Iunius (169) D. f. D. n. Silanus,Iunius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1566
+888,ATIL0888 C. Atilius (11),Atilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,813
+891,CAEC0891 Q. Caecilius (81) L. f. L. n. Metellus,Caecilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,751
+902,VALE0902 P. Valerius (182) Flaccus,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,805
+903,CORN0903 P. Cornelius (200) Lentulus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,780
+903,CORN0903 P. Cornelius (200) Lentulus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,782
+904,FULV0904 Cn. Fulvius (43) Cn. f. Cn. n. Centumalus,Fulvius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,803
+905,CAEC0905 L. Caecilius (73) Metellus,Caecilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,751
+907,PORC0907 M. Porcius (9) M. f. Pap. Cato 'Censorius',Porcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,5001
+908,CLAU0908 C. Claudius (246) Ti. f. Ti. n. Arn. Nero,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4805
+912,ATIL0912 M. Atilius (53) Regulus,Atilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,813
+919,SERV0919 Cn. Servilius (44) Cn. f. Cn. n. Caepio,Servilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,742
+921,PAPI0921 C. Papirius (58) L. f. Maso,Papirius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,5002
+923,CORN0923 P. Cornelius (383) Sulla,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,752
+924,FULV0924 Cn. Fulvius (54) Flaccus,Fulvius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,699
+926,LICI0926 P. Licinius (69) P. f. P. n. Crassus Dives,Licinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,5003
+930,VALE0930 L. Valerius (173) P. f. L. n. Flaccus,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,805
+931,SERV0931 C. Servilius (60) C. f. P. n. Geminus,Servilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,845
+936,SULP0936 P. Sulpicius (64) Ser. f. P. n. Galba Maximus,Sulpicius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4995
+939,SULP0939 C. Sulpicius (8) (Galus),Sulpicius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,764
+945,FULV0945 C. Fulvius (52) Flaccus,Fulvius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,699
+948,PORC0948 L. Porcius (22) Pap. Licinus,Porcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,5004
+949,VETU0949 L. Veturius (20) L. f. L. n. Philo,Veturius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,824
+952,LIVI0952 C. Livius (29) M. f. M. n. Salinator,Livius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,827
+952,LIVI0952 C. Livius (29) M. f. M. n. Salinator,Livius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4219
+953,SERV0953 M. Servilius (78) C. f. P. n. Pulex Geminus,Servilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,845
+959,MANL0959 P. Manlius (98) Vulso,Manlius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,734
+960,LICI0960 P. Licinius (175) Varus,Licinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,783
+976,SEMP0976 Ti. Sempronius (67) Ti. f. C. n. Longus,Sempronius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,833
+977,QUIN0977 L. Quinctius (43) T. f. L. n. Flamininus,Quinctius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4961
+982,MAMI0982 C. Mamilius (5) Atellus,Mamilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,778
+985,CORN0985 L. Cornelius (212) Lentulus Caudinus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,782
+986,CORN0986 P. Cornelius (214) Lentulus Caudinus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,782
+987,SULP0987 Ser. Sulpicius (56) Ser. f. P. n. Galba,Sulpicius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4995
+989,FLAM0989 C. Flaminius (3) C. f. C. n.,Flaminius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,793
+993,VALE0993 C. Valerius (166) P. f. L. n. Flaccus,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,805
+995,IULI0995 Sex. Iulius (147) Caesar,Iulius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4831
+996,CAEC0996 M. Caecilius (76) Metellus,Caecilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,751
+997,CLAU0997 M. Claudius (222) M. f. M. n. Marcellus,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,810
+998,MANL0998 A. Manlius (11),Manlius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,787
+999,QUIN0999 T. Quinctius (45) T. f. L. n. Flamininus,Quinctius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4961
+1006,AELI1006 P. Aelius (101) Q. f. P. n. Paetus,Aelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,889
+1010,POMP1010 M. Pomponius (19) Matho,Pomponius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,853
+1011,MAMI1011 Q. Mamilius (13) Turrinus,Mamilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,778
+1016,CORN1016 L. Cornelius (337) P. f. L. n. Scipio Asiaticus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,832
+1016,CORN1016 L. Cornelius (337) P. f. L. n. Scipio Asiaticus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4246
+1022,VALE1022 M. Valerius (153) Falto,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,767
+1022,VALE1022 M. Valerius (153) Falto,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,779
+1023,CORN1023 L. Cornelius (188) L. f. L. n. Lentulus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,780
+1024,AEMI1024 L. Aemilius (109) Papus,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,812
+1028,OCTA1028 C. Octavius (13) Sca.,Octavius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4507
+1032,CLAU1032 Ti. Claudius (249) P. f. Ti. n. Nero,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3428
+1035,BAEB1035 Cn. Baebius (41) Q. f. Cn. n. Tamphilus,Baebius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,830
+1053,FABI1053 Q. Fabius (104) Q. f. Q. n. Maximus,Fabius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,879
+1060,SULP1060 C. Sulpicius (49) Galba,Sulpicius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,936
+1067,AEMI1067 M. Aemilius (68) M. f. M. n. Lepidus,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4635
+1074,AELI1074 Sex. Aelius (105) Q. f. P. n. Paetus Catus,Aelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,889
+1077,CORN1077 P. Cornelius (350) Cn. f. L. n. Scipio Nasica,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,817
+1079,CLAU1079 C. Claudius (105) Centho,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,776
+1090,CORN1090 Cn. Cornelius (346) Cn. f. L. n. Scipio Hispallus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,817
+1095,CLAU1095 Ap. Claudius (245) Nero,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3428
+1100,MANL1100 L. Manlius (93) Vulso,Manlius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,836
+1101,MINU1101 M. Minucius (53) Rufus,Minucius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,820
+1103,MANL1103 Cn. Manlius (91) Cn. f. L. n. Vulso,Manlius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,836
+1118,CLAU1118 Ap. Claudius (294) Ap. f. P. n. Pulcher,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,858
+1123,IUNI1123 M. Iunius (168) Silanus,Iunius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,925
+1125,CLAU1125 C. Claudius (300) Ap. f. P. n. Pulcher,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,858
+1127,FABR1127 C. Fabricius (10) Luscinus,Fabricius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,675
+1128,"MANL1128 P. Manlius (31, cf. Manilius 2) (Vulso)",Manlius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,959
+1134,AEMI1134 L. Aemilius (114) L. f. M. n. Paullus Macedonicus,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,826
+1139,IUVE1139 T. Iuventius (32) Thalna,Iuventius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1106
+1140,ATIL1140 A. Atilius (60) C. f. C. n. Serranus,Atilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,835
+1141,SCRI1141 L. Scribonius (17) Libo,Scribonius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,874
+1143,POST1143 L. Postumius (65) Tympanus,Postumius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,788
+1151,MANL1151 A. Manlius (90) Cn. f. L. n. Vulso,Manlius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,836
+1154,PORC1154 L. Porcius (23) L. f. M. n. Pap. Licinus,Porcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,948
+1157,SEMP1157 M. Sempronius (95) M. f. C. n. Tuditanus,Sempronius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,991
+1163,"BAEB1163 M. Baebius (44, cf. 1, 16) Q. f. Cn. n. Tamphilus",Baebius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,830
+1164,FULV1164 M. Fulvius (44) Centumalus,Fulvius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,904
+1169,CORN1169 A. Cornelius (258) Mammula,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,855
+1170,POST1170 Sp. Postumius (44) L. f. A. n. Albinus,Postumius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,788
+1172,POST1172 A. Postumius (46) A. f. A. n. Albinus (Luscus),Postumius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4872
+1173,SULP1173 C. Sulpicius (66) C. f. C. n. Galus,Sulpicius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,939
+1175,AEMI1175 L. Aemilius (127) Regillus,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,854
+1178,FULV1178 Cn. Fulvius (12),Fulvius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,924
+1178,FULV1178 Cn. Fulvius (12),Fulvius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4216
+1180,AEMI1180 M. Aemilius (69) Lepidus,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1067
+1182,SEMP1182 Ti. Sempronius (53) P. f. Ti. n. Gracchus,Sempronius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,866
+1183,TERE1183 A. Terentius (80) Varro,Terentius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,818
+1185,AEMI1185 M. Aemilius (129) (Regillus),Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,854
+1187,ATIL1187 M. Atilius (68) Serranus,Atilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,835
+1188,FABI1188 Q. Fabius (127) Q. f. Pictor,Fabius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,883
+1191,CLAU1191 P. Claudius (305) Ap. f. P. n. Pulcher,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,858
+1192,SULP1192 Ser. Sulpicius (57) Galba,Sulpicius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,936
+1192,SULP1192 Ser. Sulpicius (57) Galba,Sulpicius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,987
+1194,FULV1194 Q. Fulvius (60) Cn. f. M. n. Flaccus,Fulvius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,924
+1194,FULV1194 Q. Fulvius (60) Cn. f. M. n. Flaccus,Fulvius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4216
+1200,VALE1200 C. Valerius (208) M. f. P. n. Laevinus,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,807
+1201,VALE1201 M. Valerius (252) M. f. M'. n. Messalla,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,808
+1204,MANL1204 L. Manlius (47) Acidinus Fulvianus,Manlius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,781
+1204,MANL1204 L. Manlius (47) Acidinus Fulvianus,Manlius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4241
+1205,MARC1205 Q. Marcius (79) L. f. Q. n. Philippus,Marcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4874
+1214,SEMP1214 C. Sempronius (30) Blaesus,Sempronius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,942
+1222,CALP1222 C. Calpurnius (62) C. f. C. n. Piso,Calpurnius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,966
+1223,CORN1223 P. Cornelius (384) Sulla,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,923
+1226,QUIN1226 L. Quinctius (37) Crispinus,Quinctius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,916
+1228,"ATIL1228 C. Atilius (63, cf. 60) Serranus",Atilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,835
+1232,VALE1232 M. Valerius (210) Laevinus,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,807
+1237,QUIN1237 T. Quinctilius (18) Varus,Quinctilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1041
+1242,FULV1242 Q. Fulvius (61) Q. f. M. n. Flaccus,Fulvius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,781
+1242,FULV1242 Q. Fulvius (61) Q. f. M. n. Flaccus,Fulvius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4241
+1247,FULV1247 M. Fulvius (57) Flaccus,Fulvius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,781
+1247,FULV1247 M. Fulvius (57) Flaccus,Fulvius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4241
+1248,FULV1248 Q. Fulvius (95) M. f. M. n. Nobilior,Fulvius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1109
+1251,POST1251 Sp. Postumius (49) A. f. A. n. Albinus (Paullulus),Postumius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4872
+1259,"MINU1259 L. Minucius (15, 63) Thermus",Minucius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1064
+1265,"IULI1265 Sex. Iulius (148, 149) Sex. f. L. n. Caesar",Iulius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,995
+1266,SERV1266 M. Servilius (18) M. f. C. n.,Servilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,953
+1270,ACIL1270 M'. Acilius (36) M'. f. C. n. Glabrio,Acilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1063
+1271,PORC1271 L. Porcius (24) L. f. Pap. Licinus,Porcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1154
+1274,CORN1274 P. Cornelius (260) Mammula,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,855
+1275,HOST1275 A. Hostilius (16) L. f. A. n. Mancinus,Hostilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4817
+1278,POST1278 L. Postumius (41) A. f. A. n. Albinus,Postumius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4872
+1283,POPI1283 M. Popillius (24) P. f. P. n. Laenas,Popillius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,971
+1284,POPI1284 P. Popillius (26) Laenas,Popillius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,971
+1285,CORN1285 P. Cornelius (331) P. f. P. n. Scipio,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,878
+1285,CORN1285 P. Cornelius (331) P. f. P. n. Scipio,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3945
+1288,MUCI1288 P. Mucius (16) Q. f. P. n. Scaevola,Mucius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,822
+1289,MUCI1289 Q. Mucius (20) Q. f. P. n. Scaevola,Mucius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,822
+1290,CLAU1290 Ap. Claudius (103) Centho,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1079
+1291,SERV1291 Cn. Servilius (45) Cn. f. Cn. n. Caepio,Servilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,919
+1295,CLAU1295 Ti. Claudius (251) Nero,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,908
+1295,CLAU1295 Ti. Claudius (251) Nero,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1032
+1306,AEBU1306 -. Aebutius (not in RE) T. f.,Aebutius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1253
+1309,"CORN1309 Cn. Cornelius (320, 325) Scipio",Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,878
+1309,"CORN1309 Cn. Cornelius (320, 325) Scipio",Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3945
+1311,QUIN1311 C. Quinctius (40) Flamininus,Quinctius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3355
+1312,AELI1312 Q. Aelius (104) P. f. Q. n. Paetus,Aelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1006
+1318,CLAU1318 M. Claudius (225) M. f. M. n. Marcellus,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,997
+1321,LICI1321 P. Licinius (60) C. f. P. n. Crassus,Licinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4877
+1322,PAPI1322 L. Papirius (62) Maso,Papirius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,921
+1326,"CORN1326 Ser. Cornelius (2, 388) Sulla",Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,923
+1328,POPI1328 C. Popillius (18) P. f. P. n. Laenas,Popillius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,971
+1331,CORN1331 L. Cornelius (325) Scipio,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,878
+1331,CORN1331 L. Cornelius (325) Scipio,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3945
+1336,SULP1336 C. Sulpicius (50) C. f. Galba,Sulpicius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1060
+1337,VETU1337 Ti. Veturius (23) Gracchus Sempronianus,Veturius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,866
+1342,SERV1342 C. Servilius (9) (Geminus),Servilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,931
+1353,IUNI1353 M. Iunius (122) M. f. M. n. Pennus,Iunius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1025
+1354,LICI1354 C. Licinius (51) C. f. P. n. Crassus,Licinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4877
+1355,LUCR1355 Sp. Lucretius (14),Lucretius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1020
+1356,OCTA1356 Cn. Octavius (17) Cn. f. Cn. n.,Octavius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,880
+1362,CORN1362 P. Cornelius (202) L. f. L. n. Lentulus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1023
+1363,CORN1363 Ser. Cornelius (208a) Lentulus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1009
+1366,DOMI1366 Cn. Domitius (19) Cn. f. L. n. Ahenobarbus,Domitius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1110
+1369,FULV1369 M. Fulvius (93) M. f. M. n. Nobilior,Fulvius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1109
+1370,"MANL1370 -. Manlius (43, 26?) L. f. Acidinus",Manlius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1204
+1373,DECI1373 C. Decimius (1),Decimius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1239
+1379,MARC1379 P. Marcius (89) Rex,Marcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,975
+1383,MAEN1383 Q. Maenius (14),Maenius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1225
+1384,MANL1384 T. Manlius (83) A. f. T. n. Torquatus,Manlius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,998
+1387,IUVE1387 M'. Iuventius (30) T. f. T. n. Pap. Thalna,Iuventius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1139
+1390,CORN1390 P. Cornelius (76) P. f. Blasio,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1085
+1395,MARC1395 C. Marcius (61) C. f. Q. n. Figulus,Marcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4880
+1396,CORN1396 P. Cornelius (353) P. f. Cn. n. Scipio Nasica Corculum,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1077
+1403,MARC1403 Q. Marcius (80) Q. f. L. n. Philippus,Marcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1205
+1406,POST1406 L. Postumius (42) Sp. f. L. n. Albinus,Postumius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1170
+1409,"BAEB1409 Cn. Baebius (42, cf. 43) Tamphilus",Baebius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1035
+1413,"MANL1413 L. Manlius (26, cf. 43) (Acidinus)",Manlius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,836
+1413,"MANL1413 L. Manlius (26, cf. 43) (Acidinus)",Manlius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1204
+1415,CORN1415 L. Cornelius (324) Scipio,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1016
+1417,SULP1417 Ser. Sulpicius (58) Ser. f. P. n. Galba,Sulpicius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1192
+1418,HOST1418 C. Hostilius (3) (Tubulus),Hostilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,984
+1420,POST1420 A. Postumius (31) A. f. A. n. Albinus,Postumius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1172
+1422,FABI1422 Q. Fabius (109) Q. f. Q. n. Maximus Aemilianus,Fabius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1134
+1422,FABI1422 Q. Fabius (109) Q. f. Q. n. Maximus Aemilianus,Fabius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4201
+1424,CAEC1424 Q. Caecilius (94) Q. f. L. n. Metellus Macedonicus,Caecilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,891
+1433,PORC1433 M. Porcius (14) M. f. M. n. Cato Licinianus,Porcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,907
+1433,PORC1433 M. Porcius (14) M. f. M. n. Cato Licinianus,Porcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4247
+1434,SERG1434 M. Sergius (41) Silus,Sergius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1102
+1441,FULV1441 Cn. Fulvius (13),Fulvius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1178
+1442,MANL1442 A. Manlius (73) A. f. T. n. Torquatus,Manlius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,998
+1449,QUIN1449 T. Quinctius (46) T. f. T. n. Flamininus,Quinctius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,977
+1449,QUIN1449 T. Quinctius (46) T. f. T. n. Flamininus,Quinctius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,999
+1452,CLAU1452 Ap. Claudius (295) Cn. f. Ap. n. Pulcher,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1125
+1454,"IULI1454 L. Iulius (28, cf. 127) (Caesar)",Iulius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,995
+1455,QUIN1455 P. Quinctilius (13) Varus,Quinctilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1041
+1460,VALE1460 M. Valerius (253) M. f. M. n. Messalla,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1201
+1461,FANN1461 C. Fannius (20) C. f. C. n. Strabo,Fannius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1244
+1465,CORN1465 L. Cornelius (224) Cn. f. L. n. Lentulus Lupus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,877
+1466,VALE1466 L. Valerius (174) L. f. P. n. Flaccus,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,930
+1471,AEMI1471 M. Aemilius (70) M'. f. M'. n. Lepidus,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4709
+1474,"CORN1474 Cn. Cornelius (175, 177) Cn. f. L. n. Lentulus",Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,877
+1481,CLAU1481 C. Claudius (106) Centho,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1079
+1483,CALP1483 L. Calpurnius (87) C. f. C. n. Piso Caesoninus,Calpurnius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1222
+1483,CALP1483 L. Calpurnius (87) C. f. C. n. Piso Caesoninus,Calpurnius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4216
+1484,LICI1484 L. Licinius (102) Lucullus,Licinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1114
+1485,AURE1485 L. Aurelius (98) L.? f. C. n. Cotta,Aurelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1198
+1485,AURE1485 L. Aurelius (98) L.? f. C. n. Cotta,Aurelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1260
+1486,TERE1486 -. Terentius (77) Varro,Terentius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1183
+1487,OPPI1487 L. Oppius (10),Oppius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1105
+1489,FLAM1489 -. Flaminius (1),Flaminius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,989
+1492,VALE1492 L. Valerius (175) L. f. L. n. Flaccus,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1466
+1494,ACIL1494 M'. Acilius (25) L. f. K. n. Balbus,Acilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3356
+1495,"MUMM1495 L. Mummius (7a, 16.1195ff.) L. f. L. n. Achaicus",Mummius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1216
+1499,ATIL1499 M. Atilius (22) (Serranus),Atilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1187
+1500,LICI1500 P. Licinius (72) P. f. P. n. Crassus Dives Mucianus,Licinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1288
+1503,HOST1503 A. Hostilius (17) Mancinus,Hostilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1275
+1504,CORN1504 P. Cornelius (335) P. f. P. n. Scipio Africanus Aemilianus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1134
+1504,CORN1504 P. Cornelius (335) P. f. P. n. Scipio Africanus Aemilianus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4201
+1506,CORN1506 Cn. Cornelius (347) Cn. f. Cn. n. Scipio Hispanus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1090
+1506,CORN1506 Cn. Cornelius (347) Cn. f. Cn. n. Scipio Hispanus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4806
+1511,SCRI1511 L. Scribonius (18) Libo,Scribonius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1141
+1513,CORN1513 P. Cornelius (354) P. f. P. n. Scipio Nasica Serapio,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1396
+1513,CORN1513 P. Cornelius (354) P. f. P. n. Scipio Nasica Serapio,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4228
+1514,LICI1514 M. Licinius (22),Licinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1224
+1515,MANL1515 L. Manlius (94) Vulso,Manlius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1100
+1519,LIVI1519 C. Livius (14) M. f. M. n. Drusus,Livius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4755
+1521,SEMP1521 C. Sempronius (91) Tuditanus,Sempronius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1092
+1523,FANN1523 C. Fannius (7) M. f. (C.? n.),Fannius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3602
+1524,LAEL1524 C. Laelius (3) C. f. C. n. Men. Sapiens,Laelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,992
+1525,SEMP1525 Ti. Sempronius (54) Ti. f. P. n. Gracchus,Sempronius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1182
+1525,SEMP1525 Ti. Sempronius (54) Ti. f. P. n. Gracchus,Sempronius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3946
+1533,IUNI1533 M. Iunius (49) M. f. M. n. Brutus,Iunius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1131
+1534,IUNI1534 M. Iunius (22) (Silanus),Iunius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4818
+1537,TERE1537 A. Terentius (81) Varro,Terentius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1183
+1542,MUMM1542 Sp. Mummius (13),Mummius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1216
+1543,IUNI1543 D. Iunius (160) Silanus,Iunius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4818
+1544,CAEC1544 L. Caecilius (83) Q. f. L. n. Metellus Calvus,Caecilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,891
+1544,CAEC1544 L. Caecilius (83) Q. f. L. n. Metellus Calvus,Caecilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,996
+1545,FABI1545 Q. Fabius (115) Q. f. Q. n. Maximus Servilianus,Fabius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1291
+1547,LICI1547 C. Licinius (52) Crassus,Licinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1354
+1548,SEMP1548 C. Sempronius (92) C. f. C. n. Tuditanus,Sempronius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1521
+1550,MARC1550 Q. Marcius (90) Rex,Marcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4893
+1551,POMP1551 Q. Pompeius (12) A. f.,Pompeius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4276
+1552,SERV1552 Cn. Servilius (46) Cn. f. Cn. n. Caepio,Servilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1291
+1553,AEMI1553 M. Aemilius (83) M. f. M. n. Lepidus Porcina,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1067
+1553,AEMI1553 M. Aemilius (83) M. f. M. n. Lepidus Porcina,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1471
+1556,SERV1556 Q. Servilius (48) Cn. f. Cn. n. Caepio,Servilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1291
+1558,TREM1558 L. Tremellius (6) Cn. f. Cam. Scrofa,Tremellius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1412
+1561,CALP1561 Cn. Calpurnius (73) Piso,Calpurnius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1222
+1561,CALP1561 Cn. Calpurnius (73) Piso,Calpurnius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3344
+1561,CALP1561 Cn. Calpurnius (73) Piso,Calpurnius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4216
+1563,POPI1563 M. Popillius (22) M. f. P. n. Laenas,Popillius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1283
+1565,IUNI1565 D. Iunius (57) M. f. M. n. Brutus Callaicus,Iunius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1131
+1566,IUNI1566 D. Iunius (161) Silanus Manlianus,Iunius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1384
+1567,MUCI1567 P. Mucius (17) P. f. Q. n. Scaevola,Mucius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1288
+1569,HOST1569 C. Hostilius (18) A. f. L. n. Mancinus,Hostilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1275
+1572,ATIL1572 Sex. Atilius (69) M. f. Serranus,Atilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1187
+1573,FURI1573 L. Furius (78) Philus,Furius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1323
+1573,FURI1573 L. Furius (78) Philus,Furius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1332
+1575,CALP1575 Q. Calpurnius (86) C. f. C. n. Piso,Calpurnius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1222
+1575,CALP1575 Q. Calpurnius (86) C. f. C. n. Piso,Calpurnius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4216
+1576,FULV1576 Ser. Fulvius (64) Q. f. Flaccus,Fulvius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1242
+1581,FULV1581 C. Fulvius (53) Q. f. Cn. n. Flaccus,Fulvius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1194
+1583,CASS1583 L. Cassius (72) Longinus Ravilla,Cassius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1304
+1583,CASS1583 L. Cassius (72) Longinus Ravilla,Cassius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1439
+1590,"POPI1590 P. Popillius (28, cf. 7, 22) C. f. P. n. Laenas",Popillius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1328
+1594,FABI1594 Q. Fabius (110) Q. Aemiliani f. Q. n. Maximus Allobrogicus,Fabius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1422
+1595,"MEMM1595 C. Memmius (5, 3)",Memmius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4894
+1596,RUTI1596 P. Rutilius (34) P. f.  Rufus,Rutilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1397
+1596,RUTI1596 P. Rutilius (34) P. f.  Rufus,Rutilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1456
+1598,SEMP1598 C. Sempronius (47) Ti. f. P. n. Gracchus,Sempronius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1182
+1598,SEMP1598 C. Sempronius (47) Ti. f. P. n. Gracchus,Sempronius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3946
+1599,CLAU1599 Ap. Claudius (11) Pulcher,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1118
+1599,CLAU1599 Ap. Claudius (11) Pulcher,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1452
+1599,CLAU1599 Ap. Claudius (11) Pulcher,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4288
+1600,PERP1600 M. Perperna (4) M. f. L. n.,Perperna,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1426
+1601,POPI1601 C. Popillius (17) C. f. Laenas,Popillius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1328
+1607,OCTA1607 M. Octavius (31),Octavius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1356
+1613,MUCI1613 Q. Mucius (21) Q. f. Q. n. Scaevola 'Augur',Mucius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1289
+1615,FABI1615 Q. Fabius (111) Q. Serviliani f. Q. n. Maximus Eburnus,Fabius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1545
+1616,ANNI1616 T. Annius (78) T. f. T. n. Rufus,Annius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1404
+1617,OCTA1617 Cn. Octavius (18) Cn. f. Cn. n.,Octavius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1356
+1621,MARC1621 C. Marcius (62) Figulus,Marcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1395
+1622,AELI1622 Q. Aelius (155) Tro. Tubero,Aelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1429
+1622,AELI1622 Q. Aelius (155) Tro. Tubero,Aelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4022
+1623,PAPI1623 C. Papirius (33) C. f. Carbo,Papirius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1411
+1624,FULV1624 M. Fulvius (58) M. f. Flaccus,Fulvius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1247
+1626,AEMI1626 M. Aemilius (71) Lepidus,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1180
+1626,AEMI1626 M. Aemilius (71) Lepidus,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1471
+1627,AURE1627 L. Aurelius (180) L. f. L. n. Orestes,Aurelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1468
+1629,SERV1629 Q. Servilius (49) Cn. f. Cn. n. Caepio,Servilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1556
+1630,"DOMI1630 Cn. Domitius (20, Supb. 3.349) Cn. f. Cn. n. Ahenobarbus",Domitius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1366
+1631,"CORN1631 P. Cornelius (202a, Supb. 3.359f.) P. f. Lentulus",Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1362
+1635,CAEC1635 Q. Caecilius (82) Q. f. Q. n. Metellus Balearicus,Caecilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1424
+1636,QUIN1636 T. Quinctius (47) T. f. T.? n. Flamininus,Quinctius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1449
+1637,LICI1637 M. Licinius (57) Crassus 'Agelastus',Licinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1321
+1638,IUNI1638 M. Iunius (123) M. f. M. n. Pennus,Iunius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1353
+1639,OPIM1639 L. Opimius (4) Q. f. Q. n.,Opimius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1476
+1642,IULI1642 Sex. Iulius (150) Caesar,Iulius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1265
+1642,IULI1642 Sex. Iulius (150) Caesar,Iulius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1454
+1643,MANI1643 P. Manilius (14) M'. or P. f. P. n.,Manilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1447
+1643,MANI1643 P. Manilius (14) M'. or P. f. P. n.,Manilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1480
+1643,MANI1643 P. Manilius (14) M'. or P. f. P. n.,Manilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4899
+1648,AURE1648 L. Aurelius (99) Cotta,Aurelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1485
+1649,CAEC1649 L. Caecilius (91) L. f. Q. n. Metellus Delmaticus,Caecilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1544
+1650,ACIL1650 M'. Acilius (37) Glabrio,Acilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1270
+1651,LIVI1651 M. Livius (17) C. f. M. n. Drusus,Livius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1519
+1652,MARC1652 Cn. Marcius (45) Censorinus,Marcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1475
+1655,MARC1655 Q. Marcius (91) Q. f. Q. n. Rex,Marcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1550
+1656,PORC1656 M. Porcius (10) M. f. M. n. Pap. Cato,Porcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1433
+1656,PORC1656 M. Porcius (10) M. f. M. n. Pap. Cato,Porcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4020
+1657,SCRI1657 C. Scribonius (9) Curio,Scribonius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1111
+1660,"MARI1660 C. Marius (14, Supb. 6) C. f. C. n. Cor.",Marius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4271
+1660,"MARI1660 C. Marius (14, Supb. 6) C. f. C. n. Cor.",Marius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4275
+1662,SULP1662 C. Sulpicius (51) Ser. f. Ser. n. Galba,Sulpicius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1417
+1665,CAEC1665 L. Caecilius (93) Q. f. Q. n. Metellus Diadematus,Caecilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1424
+1666,DECI1666 P. Decius (9) (P.? f.) Subolo,Decius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1405
+1675,POMP1675 Sex. Pompeius (17),Pompeius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4900
+1677,CAEC1677 M. Caecilius (77) Q. f. Q. n. Metellus,Caecilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1424
+1679,LICI1679 L. Licinius (55) L. f. C. n. Crassus,Licinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4048
+1680,ACIL1680 M'. Acilius (26) M'.? f. L. n. Balbus,Acilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1494
+1682,PORC1682 C. Porcius (5) M. f. M. n. Pap. Cato,Porcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1433
+1682,PORC1682 C. Porcius (5) M. f. M. n. Pap. Cato,Porcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4020
+1689,PAPI1689 Cn. Papirius (37) C. f. Carbo,Papirius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1411
+1692,MUCI1692 Q. Mucius (22) P. f. P. n. Scaevola 'Pontifex',Mucius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1567
+1693,CAEC1693 Q. Caecilius (97) L. f. Q. n. Metellus Numidicus,Caecilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1544
+1695,CORN1695 P. Cornelius (355) P. f. P. n. Scipio Nasica Serapio,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1513
+1696,PAPI1696 M. Papirius (39) Carbo,Papirius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1411
+1701,CAEC1701 C. Caecilius (84) Q. f. Q. n. Metellus Caprarius,Caecilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1424
+1703,POST1703 Sp. Postumius (45) Albinus,Postumius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1420
+1705,ANTO1705 M. Antonius (28) M. f. M. n.,Antonius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1443
+1712,CALP1712 L. Calpurnius (88) L. f. C. n. Piso Caesoninus,Calpurnius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1483
+1713,CALP1713 L. Calpurnius (97) Piso Frugi,Calpurnius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1510
+1714,"MEMM1714 L. Memmius (12, 13)",Memmius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4894
+1715,CASS1715 L. Cassius (62) L. f. Longinus,Cassius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1583
+1718,SULP1718 Ser. Sulpicius (59) Ser. f. Ser. n. Galba,Sulpicius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1417
+1727,SERG1727 M'. Sergius (17) M'. f.,Sergius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1464
+1728,"POST1728 A. Postumius (33, cf. 32, 34) Albinus",Postumius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1420
+1730,ATIL1730 C. Atilius (64) Cam. Serranus,Atilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1572
+1731,LUTA1731 Q. Lutatius (7) Q. f. Catulus,Lutatius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4009
+1731,LUTA1731 Q. Lutatius (7) Q. f. Catulus,Lutatius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4902
+1732,CORN1732 Cn. Cornelius (321) Scipio,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1506
+1740,ANNI1740 C. Annius (9) T. f. T. n. (Luscus),Annius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1616
+1746,CORN1746 L. Cornelius (392) L. f. P. n. Sulla Felix ('Epaphroditus'),Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4281
+1748,POPI1748 C. Popillius (19) Laenas,Popillius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1590
+1749,AURE1749 L. Aurelius (181) L. f. L. n. Orestes,Aurelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1627
+1753,CLAU1753 C. Claudius (302) Ap. f. C. n. Pulcher,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1452
+1753,CLAU1753 C. Claudius (302) Ap. f. C. n. Pulcher,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4288
+1755,SERV1755 Cn. Servilius (47) Caepio,Servilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1552
+1756,LIVI1756 M. Livius (18) M. f. C. n. Drusus,Livius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1651
+1756,LIVI1756 M. Livius (18) M. f. C. n. Drusus,Livius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4293
+1757,AQUI1757 M'. Aquillius (11) M'. f. M'. n.,Aquillius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1614
+1757,AQUI1757 M'. Aquillius (11) M'. f. M'. n.,Aquillius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3618
+1759,LICI1759 L. Licinius (103) Lucullus,Licinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1484
+1762,CASS1762 L. Cassius (63) Longinus,Cassius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1583
+1763,DOMI1763 Cn. Domitius (21) Cn. f. Cn. n. Ahenobarbus,Domitius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1630
+1764,MARC1764 L. Marcius (75) Q. f. Q. n. Philippus,Marcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4056
+1764,MARC1764 L. Marcius (75) Q. f. Q. n. Philippus,Marcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4787
+1767,POMP1767 Cn. Pompeius (45) Sex. f. Cn. n. Strabo 'Menogenes',Pompeius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1675
+1769,LUSI1769 C. Lusius (1) Ter.,Lusius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4098
+1769,LUSI1769 C. Lusius (1) Ter.,Lusius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4099
+1774,AURE1774 L. Aurelius (100) Cotta,Aurelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1648
+1776,DIDI1776 T. Didius (5) T. f. Sex. n.,Didius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1557
+1778,MARI1778 M. Marius (22) Cor.,Marius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4271
+1778,MARI1778 M. Marius (22) Cor.,Marius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4275
+1779,"SERV1779 C. Servilius (12, cf. 11) (Vatia)",Servilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2973
+1779,"SERV1779 C. Servilius (12, cf. 11) (Vatia)",Servilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4054
+1780,LICI1780 P. Licinius (61) M. f. P. n. Crassus (Dives),Licinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1637
+1781,POMP1781 A. Pompeius (3),Pompeius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4903
+1783,AEMI1783 M. Aemilius (137) Scaurus,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1645
+1787,CAEC1787 Q. Caecilius (95) Q. f. Q. n. Metellus Nepos,Caecilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1635
+1788,LICI1788 L. Licinius (121) Murena,Licinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1520
+1791,CORN1791 L. Cornelius (138) P. f. L. n. Dolabella,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3383
+1792,CORN1792 Cn. Cornelius (178) Cn. f. Cn. n. Lentulus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3363
+1794,"CORN1794 L. Cornelius (193, cf. 195, Supb. 3.259) Ser. f. Lentulus",Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3098
+1795,CALP1795 L. Calpurnius (89) Piso (Caesoninus),Calpurnius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1712
+1796,SERV1796 Q. Servilius (50) Caepio,Servilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1629
+1797,"CALP1797 Q. Calpurnius (17a, Supb. 3.229f.) Q. f. Piso",Calpurnius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1575
+1798,IULI1798 C. Iulius (135) L. f. Caesar Strabo Vopiscus,Iulius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3201
+1798,IULI1798 C. Iulius (135) L. f. Caesar Strabo Vopiscus,Iulius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4009
+1799,IULI1799 C. Iulius (130) C. f. L. n. Caesar,Iulius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4101
+1799,IULI1799 C. Iulius (130) C. f. L. n. Caesar,Iulius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4307
+1800,POST1800 L. Postumius (43) L. f. Sp. n. Albinus,Postumius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1406
+1800,POST1800 L. Postumius (43) L. f. Sp. n. Albinus,Postumius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4669
+1801,CASS1801 C. Cassius (57) L. f. Longinus,Cassius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1583
+1802,VALE1802 L. Valerius (178) C.? f. L. n. Flaccus,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4886
+1805,POMP1805 Q. Pompeius (39) Q. f. A.? n. Rufus,Pompeius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1551
+1806,PORC1806 M. Porcius (12) Pap. Cato,Porcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3369
+1807,CLAU1807 Ap. Claudius (296) Ap. f. C. n. Pulcher,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1452
+1807,CLAU1807 Ap. Claudius (296) Ap. f. C. n. Pulcher,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4288
+1811,APPU1811 C. Appuleius (21) Decianus,Appuleius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1666
+1814,SERV1814 P. Servilius (93) C. f. M. n. Vatia Isauricus,Servilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2973
+1814,SERV1814 P. Servilius (93) C. f. M. n. Vatia Isauricus,Servilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4054
+1815,"VALE1815 L. Valerius (176, 177) L. f. L. n. Flaccus",Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1466
+1815,"VALE1815 L. Valerius (176, 177) L. f. L. n. Flaccus",Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1492
+1816,DOMI1816 L. Domitius (26) Cn. f. Cn. n. Ahenobarbus,Domitius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1630
+1821,VALE1821 C. Valerius (168) C. f. L. n. Flaccus,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4886
+1825,IULI1825 L. Iulius (142) L. f. Sex. n. Caesar,Iulius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3201
+1825,IULI1825 L. Iulius (142) L. f. Sex. n. Caesar,Iulius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4009
+1826,PERP1826 M. Perperna (5) M. f. M. n.,Perperna,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1600
+1828,IULI1828 Sex. Iulius (151) C. f. L.? n. Caesar,Iulius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4101
+1828,IULI1828 Sex. Iulius (151) C. f. L.? n. Caesar,Iulius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4307
+1831,PORC1831 M. Porcius (11) Pap. Cato,Porcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1656
+1831,PORC1831 M. Porcius (11) Pap. Cato,Porcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1682
+1835,PAPI1835 C. Papirius (40) C. f. Carbo Arvina,Papirius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1623
+1836,CORN1836 P. Cornelius (351) P. f. P. n. Scipio Nasica,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1695
+1836,CORN1836 P. Cornelius (351) P. f. P. n. Scipio Nasica,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4029
+1841,PORC1841 L. Porcius (7) M. f. M. n. Pap. Cato,Porcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3369
+1842,SEXT1842 C. Sextius (21) Calvinus,Sextius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1634
+1843,PAPI1843 Cn. Papirius (38) Cn. f. C. n. Carbo,Papirius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1689
+1850,SULP1850 Ser. Sulpicius (60) C. f. Ani. Galba,Sulpicius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1662
+1850,SULP1850 Ser. Sulpicius (60) C. f. Ani. Galba,Sulpicius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4023
+1851,CLAU1851 M. Claudius (227) M. f. Arn. Marcellus,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1784
+1865,AEMI1865 Mam. Aemilius (80) Mam. f. Lepidus Livianus,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1651
+1865,AEMI1865 Mam. Aemilius (80) Mam. f. Lepidus Livianus,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4293
+1866,AURE1866 C. Aurelius (96) M. f. Cotta,Aurelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3990
+1866,AURE1866 C. Aurelius (96) M. f. Cotta,Aurelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3991
+1871,CORN1871 L. Cornelius (106) L. f. L. n. Cinna,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1620
+1873,OCTA1873 Cn. Octavius (20) Cn. f. Cn. n.,Octavius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1617
+1875,CAEC1875 Q. Caecilius (85) L.? f. Metellus Celer,Caecilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1665
+1876,SCRI1876 C. Scribonius (10) C. f. Curio 'Burbuleius',Scribonius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1657
+1882,CORN1882 L. Cornelius (338) L. f. L. n. Scipio Asiaticus (Asiagenus),Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4866
+1883,CORN1883 P. Cornelius (203) Lentulus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1362
+1883,CORN1883 P. Cornelius (203) Lentulus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1631
+1888,VALE1888 M'.? Valerius (248) Messalla,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1460
+1889,CAEC1889 Q. Caecilius (98) Q. f. L. n. Metellus Pius,Caecilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1693
+1896,CALP1896 L. Calpurnius (98) Piso Frugi,Calpurnius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1713
+1898,MEMM1898 L. Memmius (14) L. f. Gal.,Memmius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1714
+1902,HORT1902 Q. Hortensius (13) L. f. Hortalus,Hortensius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1670
+1902,HORT1902 Q. Hortensius (13) L. f. Hortalus,Hortensius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1716
+1902,HORT1902 Q. Hortensius (13) L. f. Hortalus,Hortensius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3960
+1903,LICI1903 L. Licinius (104) L. f. L. n. Lucullus Ponticus,Licinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1759
+1903,LICI1903 L. Licinius (104) L. f. L. n. Lucullus Ponticus,Licinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3947
+1912,RABI1912 C. Rabirius (5) C. f. Gal.,Rabirius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4412
+1930,LICI1930 L. Licinius (122) L. f. Murena,Licinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1788
+1933,GRAT1933 M. Gratidius (1) Cor.,Gratidius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1786
+1933,GRAT1933 M. Gratidius (1) Cor.,Gratidius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4820
+1934,MINU1934 L. Minucius (37) L. f. Vel. Basilus,Minucius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2466
+1939,MAGI1939 P. Magius (10),Magius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4439
+1940,MARI1940 M. Marius (42) Cor. Gratidianus,Marius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1786
+1940,MARI1940 M. Marius (42) Cor. Gratidianus,Marius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4820
+1946,FLAV1946 C. Flavius (88) Fimbria,Flavius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1743
+1947,MARC1947 C. Marcius (43) Censorinus,Marcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4887
+1949,LUTA1949 Q. Lutatius (8) Q. f. Q. n. Catulus,Lutatius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1731
+1949,LUTA1949 Q. Lutatius (8) Q. f. Q. n. Catulus,Lutatius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4156
+1957,IULI1957 C. Iulius (131) C. f. C. n. Fab. Caesar,Iulius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1799
+1957,IULI1957 C. Iulius (131) C. f. C. n. Fab. Caesar,Iulius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4258
+1965,FONT1965 M. Fonteius (12) Pap.,Fonteius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1884
+1967,VERR1967 C. Verres (1) Rom.,Verres,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3842
+1969,ANTO1969 C. Antonius (19) M. f. M. n. Hybrida,Antonius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1705
+1974,PUPI1974 M. Pupius (10) M. f. Piso Frugi Calpurnianus,Pupius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1713
+1976,POMP1976 Cn. Pompeius (31) Cn. f. Sex. n. Clu. Magnus,Pompeius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1767
+1976,POMP1976 Cn. Pompeius (31) Cn. f. Sex. n. Clu. Magnus,Pompeius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4207
+1979,CORN1979 Cn. Cornelius (134) P. f. L. n. Pal. Dolabella,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3383
+1981,LICI1981 M. Licinius (68) P. f. M. n. Crassus,Licinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1780
+1981,LICI1981 M. Licinius (68) P. f. M. n. Crassus,Licinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3999
+1982,TERE1982 M. Terentius (Licinius 109) M. f. Varro Lucullus,Terentius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1759
+1982,TERE1982 M. Terentius (Licinius 109) M. f. Varro Lucullus,Terentius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3947
+1983,MARI1983 C. Marius (15) C. f. C. n.,Marius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1660
+1983,MARI1983 C. Marius (15) C. f. C. n.,Marius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3948
+1985,MAGI1985 -. Magius (cf. 8) Minat. f. Cor.,Magius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4439
+1986,PERP1986 M. Perperna (6) Veiento,Perperna,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1826
+1988,POMP1988 M. Pomponius (25),Pomponius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4561
+1991,DOMI1991 Cn. Domitius (22) Ahenobarbus,Domitius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1763
+1992,VALE1992 L. Valerius (179) L. f. C.? n. Flaccus,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1802
+1992,VALE1992 L. Valerius (179) L. f. C.? n. Flaccus,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4085
+1993,AEMI1993 M. Aemilius (72) Q. f. M. n. Pal. Lepidus,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4706
+1996,FLAV1996 -. Flavius (86) Fimbria,Flavius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1743
+1998,SERG1998 L. Sergius (23) Tro. Catilina,Sergius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3939
+1998,SERG1998 L. Sergius (23) Tro. Catilina,Sergius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4784
+1999,"SERV1999 M. Servilius (4, 19) (C. f.)",Servilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2973
+1999,"SERV1999 M. Servilius (4, 19) (C. f.)",Servilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4054
+2001,TERE2001 A. Terentius (82) A. f. Varro,Terentius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4915
+2010,NONI2010 Sex. Nonius (53) Ani. Suffenas,Nonius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4279
+2010,NONI2010 Sex. Nonius (53) Ani. Suffenas,Nonius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4280
+2011,PAPI2011 C. Papirius (34) (Cn. f.) Carbo,Papirius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1689
+2011,PAPI2011 C. Papirius (34) (Cn. f.) Carbo,Papirius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1696
+2012,CORN2012 P. Cornelius (240) P. f. P. n. Lentulus Sura,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1883
+2014,MANL2014 A. Manlius (13) A. f.,Manlius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3476
+2018,"LIVI2018 L. Livius (31, Iulius 453) Salinator",Livius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3366
+2020,"MEMM2020 C. Memmius (6, 7) L. f. Gal.",Memmius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1714
+2023,IUNI2023 D. Iunius (46) D. f. M. n. Brutus,Iunius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1565
+2023,IUNI2023 D. Iunius (46) D. f. M. n. Brutus,Iunius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3996
+2026,AURE2026 M. Aurelius (107) M. f. Cotta,Aurelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3990
+2026,AURE2026 M. Aurelius (107) M. f. Cotta,Aurelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3991
+2027,VISE2027 C. Visellius (3) C. f. Qui. Varro,Visellius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4036
+2027,VISE2027 C. Visellius (3) C. f. Qui. Varro,Visellius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4047
+2031,OCTA2031 Cn. Octavius (22) M. f. Cn. n.,Octavius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3018
+2032,AUFI2032 Cn. Aufidius (32) Cn. f. Orestes,Aufidius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1749
+2032,AUFI2032 Cn. Aufidius (32) Cn. f. Orestes,Aufidius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4711
+2036,OCTA2036 L. Octavius (26) Cn. f. Cn. n.,Octavius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1873
+2038,AEMI2038 M'. Aemilius (62) M'. f. Lepidus,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4713
+2040,CAEC2040 Q. Caecilius (86) Q. f. Q. or L.? n. Metellus Celer,Caecilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1787
+2042,PEDU2042 Sex. Peducaeus (5),Peducaeus,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1704
+2044,IULI2044 L. Iulius (143) L. f. L. n. Caesar,Iulius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1825
+2044,IULI2044 L. Iulius (143) L. f. L. n. Caesar,Iulius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3993
+2050,CASS2050 C. Cassius (58) L. f. Longinus,Cassius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1715
+2056,LAEL2056 D. Laelius (5),Laelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4920
+2062,CLAU2062 C. Claudius (303) Ap. f. Ap. n. Pulcher,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1807
+2062,CLAU2062 C. Claudius (303) Ap. f. Ap. n. Pulcher,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4052
+2064,CORN2064 Cn. Cornelius (216) Cn. f. Cn. n. Lentulus Clodianus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1792
+2071,CORN2071 P. Cornelius (231) Lentulus Marcellinus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3780
+2071,CORN2071 P. Cornelius (231) Lentulus Marcellinus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4759
+2072,TULL2072 M. Tullius (29) M. f. M. n. Cor. Cicero,Tullius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4078
+2072,TULL2072 M. Tullius (29) M. f. M. n. Cor. Cicero,Tullius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4093
+2074,AFRA2074 L. Afranius (6) A. f. Vel.,Afranius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4715
+2075,POMP2075 Q. Pompeius (25) A. f. Bithynicus,Pompeius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1781
+2077,ANTO2077 M. Antonius (29) M. f. Creticus,Antonius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1705
+2078,CAEC2078 Q. Caecilius (87) C. f. Q. n. Metellus Creticus,Caecilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1701
+2082,"CORN2082 Cn. Cornelius (228, 24) P. f. Lentulus Marcellinus",Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3780
+2082,"CORN2082 Cn. Cornelius (228, 24) P. f. Lentulus Marcellinus",Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4759
+2085,LICI2085 L. Licinius (123) L. f. L. n. Mae. Murena,Licinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1930
+2088,SULP2088 Ser. Sulpicius (95) Q. f. Lem. Rufus,Sulpicius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4514
+2100,COSS2100 L. Cossinius (2) Lem.,Cossinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4407
+2104,OCTA2104 C. Octavius (15) Sca.,Octavius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4299
+2107,VALE2107 M. Valerius (266) M. f. M'. n. Messalla Niger 'Menogenes',Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4908
+2110,ANCH2110 Q. Ancharius (3) Q. f.,Ancharius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1928
+2119,ACIL2119 M'. Acilius (38) M'. f. M'. n. Glabrio,Acilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1650
+2119,ACIL2119 M'. Acilius (38) M'. f. M'. n. Glabrio,Acilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4032
+2120,IUNI2120 D. Iunius (163) M. f. Silanus,Iunius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,885
+2140,CLAU2140 Ap. Claudius (297) Ap. f. Ap. n. Pulcher,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1807
+2140,CLAU2140 Ap. Claudius (297) Ap. f. Ap. n. Pulcher,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4052
+2150,CAEC2150 L. Caecilius (74) C. f. Q. n. Metellus,Caecilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1701
+2151,MARC2151 Q. Marcius (92) Q. f. Q. n. Rex,Marcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1655
+2152,"CURT2152 Q. Curtius (12, cf. 25) (Postumus)",Curtius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3654
+2157,TREM2157 Cn. Tremellius (5) L. or Cn. f. L. n. Scrofa,Tremellius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3372
+2163,AURE2163 L. Aurelius (102) M. f. Cotta,Aurelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3990
+2163,AURE2163 L. Aurelius (102) M. f. Cotta,Aurelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3991
+2168,CALP2168 L. Calpurnius (90) L. f. L. n. Men. Piso Caesoninus,Calpurnius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1795
+2168,CALP2168 L. Calpurnius (90) L. f. L. n. Men. Piso Caesoninus,Calpurnius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3967
+2169,PLAE2169 M. Plaetorius (16) M. f. Cestianus,Plaetorius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3234
+2170,SICI2170 C. Sicinius (7),Sicinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4035
+2170,SICI2170 C. Sicinius (7),Sicinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4922
+2175,CAEC2175 M. Caecilius (78) Metellus,Caecilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1701
+2176,CORN2176 P. Cornelius (140) Dolabella,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1792
+2182,SULP2182 P. Sulpicius (15) Q. f. Rufus,Sulpicius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4514
+2191,MUCI2191 P. Mucius (18) Q. f. P. n. Scaevola Cordus,Mucius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1692
+2198,MANL2198 L. Manlius (80) L. f. L. n. Torquatus,Manlius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2205
+2205,MANL2205 L. Manlius (79) L. f. Torquatus,Manlius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1833
+2216,TULL2216 Q. Tullius (31) M. f. M. n. Cor. Cicero,Tullius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4078
+2216,TULL2216 Q. Tullius (31) M. f. M. n. Cor. Cicero,Tullius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4093
+2219,CLOD2219 P. Clodius (48) Ap. f. Pal. Pulcher,Clodius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1807
+2219,CLOD2219 P. Clodius (48) Ap. f. Pal. Pulcher,Clodius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4052
+2226,MARC2226 C. Marcius (63) C. f. C. n. Figulus,Marcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4895
+2234,GABI2234 A. Gabinius (11) A. f. - n.,Gabinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1790
+2235,PAPI2235 C. Papirius (35) Carbo,Papirius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1835
+2235,PAPI2235 C. Papirius (35) Carbo,Papirius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2011
+2235,PAPI2235 C. Papirius (35) Carbo,Papirius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4059
+2241,PORC2241 M. Porcius (16) M. f. M. n. Pap. Cato (Uticensis),Porcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1806
+2241,PORC2241 M. Porcius (16) M. f. M. n. Pap. Cato (Uticensis),Porcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3949
+2247,CAEC2247 Q. Caecilius (96) Q. f. Q. n. Metellus Nepos 'Pamphilus',Caecilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1787
+2253,POMP2253 Cn. Pompeius (32) Cn. f. Cn. n. Magnus,Pompeius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1976
+2253,POMP2253 Cn. Pompeius (32) Cn. f. Cn. n. Magnus,Pompeius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3908
+2254,POMP2254 Sex. Pompeius (33) Cn. f. Cn. n. Magnus Pius,Pompeius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1976
+2254,POMP2254 Sex. Pompeius (33) Cn. f. Cn. n. Magnus Pius,Pompeius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3908
+2261,MEMM2261 C. Memmius (8),Memmius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1898
+2262,AEMI2262 M. Aemilius (141) M. f. M. n. Scaurus,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1645
+2262,AEMI2262 M. Aemilius (141) M. f. M. n. Scaurus,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3929
+2264,DOMI2264 L. Domitius (27) Cn. f. Cn. n. Fab. Ahenobarbus,Domitius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1763
+2276,PLAU2276 A. Plautius (Plotius) (8) Ani.,Plautius (Plotius),http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1885
+2284,LOLL2284 M. Lollius (9),Lollius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4158
+2290,CORN2290 P. Cornelius (238) P. f. L. n. Lentulus Spinther,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4768
+2291,AMPI2291 T. Ampius (1) T. f. Hor. Balbus,Ampius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4064
+2293,SERV2293 P. Servilius (80) M. f. Rullus,Servilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3645
+2294,ATIL2294 Sex. Atilius (70) Serranus Gavianus,Atilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4717
+2296,SEST2296 P. Sestius (6) L. f. Col.,Sestius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1854
+2300,CORN2300 Faustus Cornelius (377) L. f. L. n. Sulla,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1746
+2300,CORN2300 Faustus Cornelius (377) L. f. L. n. Sulla,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3929
+2301,LICI2301 C. Licinius (119) L. f. L. n. Murena,Licinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1930
+2303,MARC2303 L. Marcius (76) L. f. Q. n. Philippus,Marcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1764
+2308,IUVE2308 M. Iuventius (16) (M. f.) Pap. Laterensis,Iuventius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3587
+2308,IUVE2308 M. Iuventius (16) (M. f.) Pap. Laterensis,Iuventius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3744
+2308,IUVE2308 M. Iuventius (16) (M. f.) Pap. Laterensis,Iuventius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4119
+2308,IUVE2308 M. Iuventius (16) (M. f.) Pap. Laterensis,Iuventius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4351
+2312,PLAN2312 Cn. Plancius (4) Ter.,Plancius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4116
+2313,DOMI2313 Cn. Domitius (43) M. f. M. n. Men. Calvinus,Domitius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2022
+2316,SULP2316 Ser. Sulpicius (61) Ser. n. Galba,Sulpicius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1718
+2321,FUFI2321 Q. Fufius (10) Q. f. C. n. Pob. Calenus,Fufius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4112
+2328,LICI2328 M. Licinius (56) M. f. P. n. Crassus,Licinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1981
+2328,LICI2328 M. Licinius (56) M. f. P. n. Crassus,Licinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4267
+2329,ATIU2329 M. Atius (Attius 11) Hor. Balbus,Atius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4303
+2331,LICI2331 P. Licinius (71) Crassus Dives,Licinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4141
+2333,HERE2333 C. Herennius (8),Herennius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3972
+2336,TREB2336 C. Trebonius (6) C. f.,Trebonius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4114
+2338,CORN2338 Cn. Cornelius (217) Lentulus Clodianus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2064
+2340,FANN2340 C. Fannius (9) C. f.,Fannius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1523
+2340,FANN2340 C. Fannius (9) C. f.,Fannius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3190
+2340,FANN2340 C. Fannius (9) C. f.,Fannius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3915
+2341,AEMI2341 M. Aemilius (73) M. f. Q. n. Lepidus,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1993
+2341,AEMI2341 M. Aemilius (73) M. f. Q. n. Lepidus,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4242
+2347,CAEC2347 Q. Caecilius (99) Q. f. Q. n. Fab. Metellus Pius Scipio = P. Cornelius (352) Scipio Nasica,Caecilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1836
+2347,CAEC2347 Q. Caecilius (99) Q. f. Q. n. Fab. Metellus Pius Scipio = P. Cornelius (352) Scipio Nasica,Caecilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4030
+2348,COSC2348 C. Cosconius (5) C. f.,Cosconius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1919
+2350,AEMI2350 L. Aemilius (81) M. f. Q. n. (Lepidus) Paullus,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1993
+2350,AEMI2350 L. Aemilius (81) M. f. Q. n. (Lepidus) Paullus,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4242
+2356,CORN2356 L. Cornelius (218) P. f. L. n. Pal. Lentulus Crus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4768
+2358,VILL2358 L. Villius (7) Pom. Annalis,Villius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4929
+2366,CALP2366 C. Calpurnius (93) L. f. Piso Frugi,Calpurnius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1896
+2370,PEDI2370 Q. Pedius (1) M. f.,Pedius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3885
+2370,PEDI2370 Q. Pedius (1) M. f.,Pedius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3886
+2372,LICI2372 P. Licinius (63) M. f. (P.? n.) Crassus,Licinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1981
+2372,LICI2372 P. Licinius (63) M. f. (P.? n.) Crassus,Licinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4267
+2374,"IULI2374 Sex. Iulius (152, 153) Caesar",Iulius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2044
+2375,CALI2375 M. Calidius (4),Calidius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1812
+2379,FABI2379 Q. Fabius (108) Q. f. Q. n. Maximus (Sanga?),Fabius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4142
+2381,ANNI2381 T. Annius (67) Mae. Milo = T. Papius Milo,Annius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3926
+2381,ANNI2381 T. Annius (67) Mae. Milo = T. Papius Milo,Annius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4720
+2392,ANTO2392 M. Antonius (30) M. f. M. n.,Antonius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2077
+2392,ANTO2392 M. Antonius (30) M. f. M. n.,Antonius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3878
+2394,CORN2394 P. Cornelius (239) P. f. Lentulus Spinther,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2290
+2396,CLAU2396 C. Claudius (216) C. f. M. n. Marcellus,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2021
+2396,CLAU2396 C. Claudius (216) C. f. M. n. Marcellus,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4077
+2397,CLAU2397 C. Claudius (217) M. f. M. n. Marcellus,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1851
+2398,CLAU2398 M. Claudius (229) M. f. M. n. Marcellus,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1851
+2399,DOMI2399 Cn. Domitius (11),Domitius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2313
+2403,NONI2403 M. Nonius (52) Ani. Sufenas,Nonius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2010
+2407,RUTI2407 P. Rutilius (27) Lupus,Rutilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1837
+2416,CORN2416 L. Cornelius (196) Lentulus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2196
+2416,CORN2416 L. Cornelius (196) Lentulus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2197
+2417,CAEL2417 M. Caelius (35) Vel. Rufus,Caelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4044
+2426,PEDU2426 Sex. Peducaeus (6),Peducaeus,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2042
+2430,SULP2430 P. Sulpicius (93) P. f. Rufus,Sulpicius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1886
+2433,SERV2433 P. Servilius (67) P. f. C. n. Isauricus,Servilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1814
+2435,CONS2435 M. Considius (13) Nonianus,Considius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2010
+2438,LAEL2438 D. Laelius (6) Balbus,Laelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2056
+2439,MEMM2439 C. Memmius (9),Memmius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2020
+2439,MEMM2439 C. Memmius (9),Memmius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3968
+2443,SCRI2443 C. Scribonius (11) C. f. C. n. Curio,Scribonius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1876
+2443,SCRI2443 C. Scribonius (11) C. f. C. n. Curio,Scribonius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4295
+2445,CURT2445 M. Curtius (26) Postumus,Curtius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4131
+2445,CURT2445 M. Curtius (26) Postumus,Curtius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4132
+2450,MUNA2450 L. Munatius (30) L. f. L. n. Cam. Plancus,Munatius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4016
+2456,"LICI2456 P. Licinius (65, 75) Crassus Iunianus Damasippus = P.? Iunius Brutus Damasippus",Licinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1980
+2457,LUCI2457 C. Lucilius (25) C. f. Pup. Hirrus,Lucilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4933
+2458,CASS2458 C. Cassius (59) Longinus,Cassius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2050
+2459,IUNI2459 M. Iunius (53) M. f. Brutus = Q. Servilius Caepio Brutus,Iunius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1973
+2459,IUNI2459 M. Iunius (53) M. f. Brutus = Q. Servilius Caepio Brutus,Iunius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3870
+2463,IUNI2463 M. Iunius (171) Silanus,Iunius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1966
+2466,MINU2466 L. Minucius (38) Vel. Basilus = M. Satrius (1),Minucius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4911
+2466,MINU2466 L. Minucius (38) Vel. Basilus = M. Satrius (1),Minucius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4945
+2467,OCTA2467 M. Octavius (33) Cn. f.,Octavius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2031
+2477,MUNA2477 T. Munatius (32) Cam. Plancus Bursa,Munatius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4016
+2478,POMP2478 Q. Pompeius (41) Rufus,Pompeius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3866
+2478,POMP2478 Q. Pompeius (41) Rufus,Pompeius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3867
+2480,CAEC2480 L. Caecilius (75) L. f. Metellus,Caecilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2150
+2488,VALE2488 C. Valerius (169) L. f. Flaccus,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1992
+2488,VALE2488 C. Valerius (169) L. f. Flaccus,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4914
+2489,"IUNI2489 D. Iunius (55a, Supb. 5.369) D. f. D. n. Brutus Albinus",Iunius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2023
+2489,"IUNI2489 D. Iunius (55a, Supb. 5.369) D. f. D. n. Brutus Albinus",Iunius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4269
+2495,VIBI2495 C. Vibius (16) C. f. C. n. Tro. Pansa Caetronianus,Vibius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3526
+2497,ANTO2497 C. Antonius (20) M. f. M. n.,Antonius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2077
+2497,ANTO2497 C. Antonius (20) M. f. M. n.,Antonius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3878
+2501,"FUFI2501 Q. Fufidius (7, cf. 5) Q. f. Cor. (step)",Fufidius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4393
+2515,CORN2515 P. Cornelius (141) P. f. Dolabella = P. Cornelius Lentulus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2176
+2518,SCRI2518 L. Scribonius (20) L. f. Libo,Scribonius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3080
+2518,SCRI2518 L. Scribonius (20) L. f. Libo,Scribonius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4939
+2523,ANTO2523 L. Antonius (23) M. f. M. n. Pietas,Antonius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2077
+2523,ANTO2523 L. Antonius (23) M. f. M. n. Pietas,Antonius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3878
+2524,COEL2524 C. Coelius (14) Caldus,Coelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3129
+2534,MARC2534 L. Marcius (77) L. f. L. n. Philippus,Marcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2303
+2536,VALE2536 M. Valerius (268) M. f. Lem. Messalla Rufus,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3971
+2536,VALE2536 M. Valerius (268) M. f. Lem. Messalla Rufus,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4283
+2542,QUIN2542 Sex. Quinctilius (17) Varus,Quinctilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2376
+2543,CALP2543 Cn. Calpurnius (95) Cn. f. Cn. n. Piso Frugi,Calpurnius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2274
+2543,CALP2543 Cn. Calpurnius (95) Cn. f. Cn. n. Piso Frugi,Calpurnius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4767
+2550,CORN2550 L. Cornelius (70) P. f. Balbus ('Balbillus'),Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4772
+2553,ASIN2553 C. Asinius (25) Cn. f. Arn. Pollio,Asinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4290
+2554,HORT2554 Q. Hortensius (8) Q. f. L. n. Hortalus,Hortensius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1902
+2559,IULI2559 L. Iulius (144) L. f. L. n. Caesar,Iulius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2044
+2560,LUCR2560 Q. Lucretius (36) Vespillo,Lucretius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3899
+2563,TULL2563 M. Tullius (30) M. f. M. n. Cor. Cicero,Tullius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2072
+2563,TULL2563 M. Tullius (30) M. f. M. n. Cor. Cicero,Tullius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3940
+2564,VALE2564 C. Valerius (365) Aem. Triarius,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2117
+2564,VALE2564 C. Valerius (365) Aem. Triarius,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3933
+2567,MARC2567 Q. Marcius (83) L. f. Pap. Philippus,Marcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1764
+2568,RABI2568 C. Rabirius (Curtius) (6) C. f. Postumus,Rabirius (Curtius),http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4131
+2568,RABI2568 C. Rabirius (Curtius) (6) C. f. Postumus,Rabirius (Curtius),http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4132
+2570,"CLAU2570 M. Claudius (232, cf. 233) M. f. Marcellus Aeserninus",Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4025
+2571,CLAU2571 Ti. Claudius (254) Ti. f. Ap. n. Nero,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2248
+2572,CORN2572 P. Cornelius (232) Lentulus Marcellinus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2082
+2573,CORN2573 Q. Cornificius (8) Q. f. Mae.,Cornificius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2181
+2575,CASS2575 L. Cassius (65) Longinus,Cassius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2050
+2576,TITI2576 L.? Titius (13) L. f. Hispanus,Titius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3857
+2581,TERE2581 A. Terentius (91) Varro Murena,Terentius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2085
+2593,"OPIM2593 M. Opimius (9, cf. 2)",Opimius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3126
+2597,IULI2597 C. Iulius (132) C. f. C. n. Fab. Caesar Octavianus = C. Octavius C. f. Sca. Thurinus (or Caepias),Iulius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2104
+2597,IULI2597 C. Iulius (132) C. f. C. n. Fab. Caesar Octavianus = C. Octavius C. f. Sca. Thurinus (or Caepias),Iulius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3884
+2608,CARR2608 C. Carrinas (2) C. f. Col. Qui.,Carrinas,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1977
+2609,"VOLC2609 L. Volcacius (9, 18) L. f. Tullus",Volcacius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2178
+2617,TITI2617 -. Titius (cf. 13) L. f. Hispanus,Titius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3857
+2629,LIVI2629 L. Livineius (3) L. f. Regulus,Livineius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3403
+2632,TULL2632 Q. Tullius (32) Q. f. M. n. Cicero,Tullius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2216
+2632,TULL2632 Q. Tullius (32) Q. f. M. n. Cicero,Tullius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3966
+2633,POMP2633 A. Pompeius (26) Bithynicus,Pompeius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2075
+2635,AELI2635 L. Aelius (75) Aem. Lamia,Aelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4136
+2639,"APPU2639 M. Appuleius (13, cf. 14) Sex. f.",Appuleius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3037
+2639,"APPU2639 M. Appuleius (13, cf. 14) Sex. f.",Appuleius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4251
+2640,ANTI2640 C. Antistius (47) C. f. Vetus,Antistius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2162
+2659,ANNI2659 T. Annius (37) Cimber,Annius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4113
+2661,"PUPI2661 M. Pupius (11, 12) M. f. M. n. Piso Frugi",Pupius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1974
+2661,"PUPI2661 M. Pupius (11, 12) M. f. M. n. Piso Frugi",Pupius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4359
+2663,CORN2663 L. Cornelius (107) Cinna,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1871
+2663,CORN2663 L. Cornelius (107) Cinna,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4359
+2664,"CORN2664 L. Cornelius (197, cf. 219) Lentulus",Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2196
+2664,"CORN2664 L. Cornelius (197, cf. 219) Lentulus",Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2197
+2674,CRIT2674 -. Critonius (1),Critonius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1971
+2676,CAES2676 L. Caesetius (4) Flavus,Caesetius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4345
+2689,CORN2689 -. Cornelius (104) Cinna,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2663
+2689,CORN2689 -. Cornelius (104) Cinna,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3934
+2699,DOMI2699 Cn. Domitius (23) L. f. Cn. n. Ahenobarbus,Domitius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2264
+2699,DOMI2699 Cn. Domitius (23) L. f. Cn. n. Ahenobarbus,Domitius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4012
+2711,MARC2711 L. Marcius (48) L. f. C. n. Censorinus,Marcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3552
+2717,CORN2717 L. Cornificius (5) L. f.,Cornificius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3180
+2719,SERV2719 M. Servilius (21),Servilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3519
+2725,MANL2725 A. Manlius (72) Torquatus,Manlius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2250
+2725,MANL2725 A. Manlius (72) Torquatus,Manlius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4923
+2729,SEST2729 L. Sestius (3) P. f. L. n. Quirinalis Alb-,Sestius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2296
+2729,SEST2729 L. Sestius (3) P. f. L. n. Quirinalis Alb-,Sestius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4075
+2739,CALP2739 L. Calpurnius (27) Bibulus,Calpurnius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2272
+2739,CALP2739 L. Calpurnius (27) Bibulus,Calpurnius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3890
+2742,CASS2742 L. Cassius (15) L. f. Longinus,Cassius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2575
+2747,IUNI2747 M. Iunius (172) M. f. D. n. Silanus,Iunius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1966
+2754,PORC2754 M. Porcius (13) Pap. Cato,Porcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2241
+2754,PORC2754 M. Porcius (13) Pap. Cato,Porcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4260
+2758,VALE2758 M. Valerius (261) M. f. M. n. Messalla Corvinus,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2107
+2758,VALE2758 M. Valerius (261) M. f. M. n. Messalla Corvinus,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4191
+2762,MARC2762 L. Marcius (64) Figulus,Marcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2226
+2768,VILL2768 -. Villius (4) L. f. Annalis,Villius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2358
+2773,PLAE2773 L. Plaetorius (15) Cestianus,Plaetorius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2087
+2777,LABI2777 Q. Labienus (5) T. f. Parthicus,Labienus,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2292
+2781,"CORN2781 L.? Cornelius (219, cf. 217) Lentulus Cruscellio",Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2356
+2802,GELL2802 L. Gellius (18) L. f. L. n. Poplicola,Gellius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1822
+2802,GELL2802 L. Gellius (18) L. f. L. n. Poplicola,Gellius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4191
+2803,PEDI2803 Q. Pedius (2),Pedius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2370
+2803,PEDI2803 Q. Pedius (2),Pedius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4249
+2808,VIPS2808 M. Vipsanius (2) L. f. Agrippa,Vipsanius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4949
+2819,CORN2819 L. Cornelius (69) L. f. Clu. Balbus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4777
+2821,CANI2821 L. Caninius (4) L. f. Pol. Gallus,Caninius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2401
+2823,SEMP2823 L. Sempronius (26) L. f. L. n. Fal. Atratinus,Sempronius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2305
+2834,TITI2834 M. Titius (18) L. f.,Titius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2981
+2834,TITI2834 M. Titius (18) L. f.,Titius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4364
+2852,NASI2852 Q. Nasidius (4),Nasidius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2562
+2859,OPPI2859 M. Oppius (15) M. f.,Oppius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3896
+2860,LICI2860 M. Licinius (58) M. f. M. n. Crassus,Licinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2328
+2860,LICI2860 M. Licinius (58) M. f. M. n. Crassus,Licinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4762
+2861,FONT2861 C. Fonteius (20) C. f. Capito,Fonteius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2093
+2867,CLAU2867 Ap. Claudius (298) C. f. Ap. n. Pulcher,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2062
+2869,OPPI2869 M. Oppius (24) Capito,Oppius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4951
+2882,MIND2882 M. Mindius (5) M. f. Marcellus,Mindius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4442
+2895,AEMI2895 L. Aemilius (82) L. f. M. n. Tro. Lepidus Paullus,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2350
+2896,MEMM2896 C. Memmius (10) C. f. L. n.,Memmius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2261
+2896,MEMM2896 C. Memmius (10) C. f. L. n.,Memmius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3920
+2898,ASIN2898 Cn.? Asinius (2) Cn. f. Arn. Marrucinus,Asinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4290
+2910,ASEL2910 -. Asellius (not in RE) L. f.,Asellius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2909
+2914,VALE2914 Potitus Valerius (267) (M. f. M. n.?) Messalla,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2107
+2927,APPU2927 Sex. Appuleius (17) Sex. f.,Appuleius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3037
+2927,APPU2927 Sex. Appuleius (17) Sex. f.,Appuleius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4251
+2930,TERE2930 A. Terentius (92) A. f. Varro Murena,Terentius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2581
+2931,AEMI2931 Q. Aemilius (79) M'. f. Lepidus,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2038
+2931,AEMI2931 Q. Aemilius (79) M'. f. Lepidus,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2341
+2931,AEMI2931 Q. Aemilius (79) M'. f. Lepidus,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3924
+2959,FABI2959 Q. Fabius (92) Labeo,Fabius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4809
+2965,LIVI2965 L. Livius (25) Ocella or Pella,Livius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2018
+2970,PLAU2970 M. Plautius (22) Hypsaeus,Plautius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1632
+2971,SULP2971 C. Sulpicius (52) Galba,Sulpicius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2316
+2973,SERV2973 C. Servilius (91) M. f. M. n. Vatia,Servilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1266
+3018,OCTA3018 M. Octavius (32) Cn. f.,Octavius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1617
+3035,ACIL3035 M. Acilius (28) M. f. Caninus,Acilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2583
+3045,CAEC3045 C. Caecilius (71) Metellus,Caecilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1701
+3050,LIVI3050 L. Livius (26) L. f. Ocella,Livius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2965
+3051,HERE3051 M. Herennius (41) M. f. Mae. Rufus,Herennius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1819
+3098,CORN3098 Ser. Cornelius (208b) Ser. f. Lentulus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1363
+3126,OPIM3126 M. Opimius (8),Opimius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1639
+3127,COEL3127 C. Coelius (13) C. f. C. n. Caldus,Coelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1744
+3129,COEL3129 L. Coelius (15) C. f. C. n. Caldus,Coelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1744
+3133,CORN3133 P. Cornelius (cf. 331) P. f. P. n. Scipio,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1285
+3135,ALBI3135 P. Albius (not in RE) P. f. Qui.,Albius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1667
+3144,CALI3144 -. Calidius (cf. 2) Cn. f.,Calidius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4160
+3154,APPU3154 Cn. (Appuleius) (27) L. f. Saturninus,(Appuleius),http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2318
+3164,CORN3164 P. Cornelius (385) Ser. f. Sulla,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4779
+3167,CLAU3167 Q. Claudius (30) Ap. f. Pol.,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1599
+3168,CORN3168 C. Cornelius (17) M. f. Ste. (Cethegus?),Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1377
+3169,CONS3169 Q. Considius (7),Considius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4780
+3175,"COSC3175 M. Cosconius (9, cf. 8) M. f. Ter.",Cosconius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1589
+3176,EGNA3176 C. Egnatius (27) Cn. f. Cn. n. Maximus,Egnatius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3179
+3177,CORN3177 Ser. Cornelius (389) Ser. f. Sulla,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4779
+3190,FANN3190 C. Fannius (8) C. f.,Fannius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1523
+3190,FANN3190 C. Fannius (8) C. f.,Fannius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3464
+3190,FANN3190 C. Fannius (8) C. f.,Fannius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3915
+3200,"LUTA3200 Cn. Lutatius (1, 12) Cn. f. Ani. Arn. Cerco",Lutatius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1327
+3201,IULI3201 L. Iulius (141) Sex. f. (Sex. n.) Fal. Caesar,Iulius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1265
+3225,POMP3225 Cn. Pompeius (6) Cn. f. Clu.,Pompeius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4900
+3226,POPI3226 P. Popillius (29) P. f. Ter. Laenas,Popillius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1590
+3238,POPI3238 Q. Popillius (30) P. f. Rom. Laenas,Popillius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1590
+3239,PORC3239 P. Porcius (cf. 4 and 19) P. f. (Laeca),Porcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1084
+3258,"SENT3258 C. Sentius (4, cf. 9) C. f. Sab. Saturninus Vetulo",Sentius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4905
+3268,VELL3268 -. Velleius (4) Capito,Velleius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2836
+3271,TITI3271 Q. Titinius (17) C. f. Ter.,Titinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4273
+3271,TITI3271 Q. Titinius (17) C. f. Ter.,Titinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4274
+3281,MAGI3281 -. Magius (cf. 8) Minat. f. Cor.,Magius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4439
+3286,POMP3286 Sex. Pompeius (19) Sex. f. Sex.? n.,Pompeius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3385
+3304,AELI3304 Q. Aelius (156) L. f. Tro. Tubero,Aelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2325
+3304,AELI3304 Q. Aelius (156) L. f. Tro. Tubero,Aelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4010
+3329,AQUI3329 -. Aquillius (cf. 19) (Florus?),Aquillius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3328
+3352,CORN3352 P. Cornelius (266) Merenda,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,689
+3359,"MINU3359 Q. Minucius (24, cf. 23) Q. f.",Minucius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1062
+3359,"MINU3359 Q. Minucius (24, cf. 23) Q. f.",Minucius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1064
+3363,CORN3363 -. Cornelius (172) Lentulus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1474
+3364,"MANL3364 T. Manlius (2, cf. 37 and 74)",Manlius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1384
+3366,LIVI3366 -. Livius or Oppius (Livius 30) Salinator,Livius or Oppius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,952
+3369,PORC3369 M. Porcius (15) Cato (Salonianus),Porcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,907
+3369,PORC3369 M. Porcius (15) Cato (Salonianus),Porcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3944
+3372,TREM3372 L. (or Cn.) Tremellius (not in RE) L. f. Cn. n. Scrofa,Tremellius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1558
+3385,POMP3385 Sex. Pompeius (18) (Sex. f. Cn. n.),Pompeius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1675
+3391,POST3391 A. Postumius (35) Sp. f. Albinus,Postumius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1703
+3402,"CURT3402 M. Curtius (23, cf. 8) Peducaeanus",Curtius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2042
+3405,OCTA3405 -. Octavius (7 = ?17) Cn. f.,Octavius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1356
+3421,CAEC3421 -. Caecilius (cf. 70) Metellus,Caecilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2949
+3430,"CLAU3430 Ap. Claudius (299, cf. 15) Pulcher",Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2062
+3447,EGNA3447 Cn. Egnatius (2) Cn. f. Cn. n. Maximus,Egnatius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3179
+3469,MANL3469 -. (Manlius) (cf. 44) Acidinus,(Manlius),http://romanrepublic.ac.uk/rdf/entity/Sex/Male,5162
+3478,POST3478 A. Postumius (36) A. f. S. n. Albinus,Postumius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3391
+3491,MINU3491 C. Minucius (31) Augurinus,Minucius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1245
+3492,CASS3492 C. Cassius (cf. 56),Cassius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1633
+3495,CONS3495 C. Considius (12) Nonianus,Considius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2435
+3496,CONS3496 C. Considius (14) Paetus,Considius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2359
+3517,SERV3517 C. Servilius (16) C. f.,Servilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1779
+3517,SERV3517 C. Servilius (16) C. f.,Servilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3519
+3519,SERV3519 C. Servilius (14) M. f.,Servilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4958
+3520,SULP3520 C. Sulpicius (9) C. f. Galba,Sulpicius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1662
+3520,SULP3520 C. Sulpicius (9) C. f. Galba,Sulpicius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4023
+3524,VALE3524 C. Valerius (167) C. f. Flaccus,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,993
+3538,IUNI3538 D. Iunius (162) L. f. Silanus,Iunius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4819
+3543,AEMI3543 L. Aemilius (37) Buca,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4736
+3552,MARC3552 L. Marcius (47) Censorinus,Marcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4887
+3553,COSC3553 L. Cosconius (6) M. f.,Cosconius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1589
+3573,POMP3573 L. Pomponius (5) Cn. f.,Pomponius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3788
+3602,FANN3602 M. Fannius (14) C. f.,Fannius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1244
+3603,FURI3603 M. Furius (79) L. f. Philus,Furius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1573
+3608,SERV3608 M. Servilius (19) C. f.,Servilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2973
+3608,SERV3608 M. Servilius (19) C. f.,Servilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4054
+3615,VALE3615 M. Valerius (254) Messalla,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2536
+3638,PORC3638 P. Porcius (21) Laeca,Porcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1084
+3650,FURI3650 -. (Furius) (not in RE) Purpurio,(Furius),http://romanrepublic.ac.uk/rdf/entity/Sex/Male,967
+3671,"SULP3671 Ser. Sulpicius (20, cf. 21, 96)",Sulpicius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2088
+3671,"SULP3671 Ser. Sulpicius (20, cf. 21, 96)",Sulpicius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3984
+3693,"FULV3693 L. (or Cn.) Fulvius (20, cf. 57 and 92)",Fulvius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,781
+3693,"FULV3693 L. (or Cn.) Fulvius (20, cf. 57 and 92)",Fulvius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4241
+3694,FULV3694 Q. Fulvius (30) Q. f. M. n. (Nobilior?),Fulvius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1248
+3704,MINU3704 M. (Minucius) (39) Vel. Basilus,(Minucius),http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2466
+3769,PAPI3769 C. Papirius (36) C. f. P. n. Clu. Carbo,Papirius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2235
+3770,PAPI3770 C. (Papirius) (59) Masso,(Papirius),http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1322
+3775,"PLAU3775 L. Plautius (Plotius) (10, cf. Munatius 26) Plancus",Plautius (Plotius),http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4016
+3776,POMP3776 A. Pompeius (4) A. f. Clu.,Pompeius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1781
+3780,CORN3780 P. Cornelius (230) Marcelli f. Lentulus Marcellinus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1784
+3781,CORN3781 P. Cornelius (233) P. f. L.? n. Lentulus Marcellinus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2572
+3785,CORN3785 P. Cornelius (387) P. f.  Sulla,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2028
+3790,"POPI3790 M. Popillius (23, cf. 7) M. f. Laenas",Popillius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1563
+3811,LUCI3811 Q. Lucilius (20) Balbus,Lucilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3814
+3825,QUIN3825 T. Q(uinctius) (48) (Flamininus),Q(uinctius),http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1636
+3865,FULV3865 Q. Fulvius (62) Flaccus,Fulvius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1624
+3866,POMP3866 Q. Pompeius (40) Rufus,Pompeius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1805
+3868,LICI3868 -. Licinius (50) Crassus Dives,Licinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1780
+3868,LICI3868 -. Licinius (50) Crassus Dives,Licinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3999
+3869,CORN3869 L. Cornelius (327) Scipio Asiagenus Aemilianus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1882
+3869,CORN3869 L. Cornelius (327) Scipio Asiagenus Aemilianus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1993
+3869,CORN3869 L. Cornelius (327) Scipio Asiagenus Aemilianus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4761
+3881,SERG3881 -. Sergius (14),Sergius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1998
+3888,MUNA3888 C. Munatius (26) Plancus,Munatius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4016
+3891,TURR3891 -. Turranius (2),Turranius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2669
+3903,ANTO3903 Iullus Antonius (22),Antonius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2392
+3903,ANTO3903 Iullus Antonius (22),Antonius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3893
+3904,ANTO3904 M. Antonius (32) Antyllus,Antonius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2392
+3904,ANTO3904 M. Antonius (32) Antyllus,Antonius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3893
+3905,FUFI3905 Q. Fufius (11) Calenus,Fufius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2321
+3911,CLAU3911 M. Claudius (230) Marcellus,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2396
+3911,CLAU3911 M. Claudius (230) Marcellus,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3909
+3913,AEMI3913 M. Aemilius (104) Lepidus,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2341
+3913,AEMI3913 M. Aemilius (104) Lepidus,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3901
+3917,SERV3917 Q. Servilius (40-42) Caepio,Servilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1796
+3917,SERV3917 Q. Servilius (40-42) Caepio,Servilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3949
+3918,LICI3918 M. Licinius (109) Lucullus,Licinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1759
+3918,LICI3918 M. Licinius (109) Lucullus,Licinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3947
+3921,CLAU3921 C. Claudius (C) Pulcher,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2062
+3922,CLOD3922 P. Clodius (49) Pulcher,Clodius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2219
+3922,CLOD3922 P. Clodius (49) Pulcher,Clodius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3893
+3923,SEMP3923 -. Sempronius (89) Tuditanus,Sempronius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1548
+3930,VALE3930 P. Valerius (367) Aem. Triarius,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2117
+3930,VALE3930 P. Valerius (367) Aem. Triarius,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3933
+3935,AEMI3935 M. Aemilius (142) Scaurus,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2262
+3935,AEMI3935 M. Aemilius (142) Scaurus,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3908
+3938,CORN3938 P. Cornelius (205) Lentulus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2196
+3938,CORN3938 P. Cornelius (205) Lentulus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2197
+3950,CLAU3950 Ti. Claudius (Iulius 154) Nero,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2571
+3950,CLAU3950 Ti. Claudius (Iulius 154) Nero,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4192
+3951,LICI3951 C. Licinius (113) Macer Calvus,Licinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2103
+3954,AFRA3954 -. Afranius (1),Afranius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2074
+3956,VALG3956 A. Valgius (4),Valgius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3264
+3957,VALG3957 -. Valgius (2),Valgius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3264
+3959,SERV3959 Q. Servilius (63) Geminus,Servilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4963
+3965,POMP3965 T. Pomponius (102) Atticus,Pomponius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3978
+3965,POMP3965 T. Pomponius (102) Atticus,Pomponius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4552
+3970,ATIL3970 Sex. Atilius (71) Serranus,Atilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2264
+3970,ATIL3970 Sex. Atilius (71) Serranus,Atilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4012
+3982,PONT3982 -. Pontius (22) Titinianus,Pontius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3271
+3987,CORN3987 -. Cornelius (B) Dolabella,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2515
+3987,CORN3987 -. Cornelius (B) Dolabella,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3928
+3989,CORN3989 -. Cornelius (172a) Lentulus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2515
+3989,CORN3989 -. Cornelius (172a) Lentulus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3928
+3998,AELI3998 -. Aelius (Gamala 3) Gamala,Aelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1324
+4000,LICI4000 P. Licinius (62) Crassus Dives,Licinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1780
+4000,LICI4000 P. Licinius (62) Crassus Dives,Licinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3999
+4001,AEMI4001 -. Aemilius (84) Regillus,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1993
+4001,AEMI4001 -. Aemilius (84) Regillus,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4242
+4002,SILI4002 -. Silius (A),Silius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4003
+4019,COSS4019 L. Cossinius (3),Cossinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2100
+4021,LIVI4021 C. Livius (15) Drusus,Livius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1519
+4025,CLAU4025 M. Claudius (231) Marcellus Aeserninus,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1784
+4028,LICI4028 L.? Licinius (76) Crassus Scipio,Licinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1836
+4028,LICI4028 L.? Licinius (76) Crassus Scipio,Licinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4030
+4037,SULP4037 Q. Sulpicius (69) Galus,Sulpicius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1173
+4038,AURE4038 C. Aurelius (178),Aurelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1468
+4039,FANN4039 C. Fannius (cf. 7) C. f.,Fannius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1461
+4045,IUNI4045 C. Iunius (16),Iunius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2068
+4046,IUNI4046 M. Iunius (50) Brutus,Iunius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1533
+4048,LICI4048 L. Licinius (54) Crassus,Licinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1354
+4066,CAEC4066 -. Caecina (A),Caecina,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4067
+4067,CAEC4067 A. Caecina (7) Sab.,Caecina,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4068
+4067,CAEC4067 A. Caecina (7) Sab.,Caecina,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,5161
+4073,VALG4073 C. Valgius (6) Hippianus,Valgius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4967
+4080,LICI4080 M. Licinius (110) Lucullus,Licinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1903
+4080,LICI4080 M. Licinius (110) Lucullus,Licinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3958
+4081,TULL4081 L. Tullius (26) Cor. Cicero,Tullius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4082
+4082,TULL4082 L. Tullius (25) Cor. Cicero,Tullius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4026
+4082,TULL4082 L. Tullius (25) Cor. Cicero,Tullius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4027
+4084,APPU4084 -. Appuleius (22) Decianus,Appuleius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1811
+4093,TULL4093 M. Tullius (28) Cor. Cicero,Tullius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4026
+4093,TULL4093 M. Tullius (28) Cor. Cicero,Tullius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4027
+4094,MARI4094 M. Marius (A) Gratidianus,Marius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1786
+4094,MARI4094 M. Marius (A) Gratidianus,Marius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4820
+4101,IULI4101 C. Iulius (129) Caesar,Iulius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1454
+4103,TERE4103 M. Terentius (90) Varro Lucullus,Terentius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3947
+4103,TERE4103 M. Terentius (90) Varro Lucullus,Terentius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4969
+4104,GRAT4104 M. Gratidius (A) Cor.,Gratidius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1786
+4104,GRAT4104 M. Gratidius (A) Cor.,Gratidius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4820
+4116,PLAN4116 Cn. Plancius (3) Ter.,Plancius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,5297
+4118,PLAN4118 -. Plancius (1),Plancius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,5297
+4137,ATIL4137 -. Atilius (A) Serranus,Atilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1730
+4139,SITT4139 P. Sittius (3),Sittius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4140
+4141,LICI4141 P. Licinius (67) Crassus Dives,Licinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4270
+4142,FABI4142 Q. Fabius (107) Maximus,Fabius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1594
+4145,IUNI4145 -. Iunius (2) P. f.,Iunius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4144
+4152,FANN4152 Cn. Fannius (11) Ter.,Fannius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4273
+4155,PUBL4155 -. Publicius (C) Malleolus,Publicius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3505
+4159,LOLL4159 Q. Lollius (14),Lollius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4158
+4160,CALI4160 Cn. Calidius (2),Calidius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4161
+4162,ANTI4162 M. Antistius (34) Labeo,Antistius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4163
+4169,SEMP4169 Ti.? Sempronius (55) Gracchus,Sempronius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1525
+4169,SEMP4169 Ti.? Sempronius (55) Gracchus,Sempronius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3864
+4171,LICI4171 -. Licinius (6) Crassus,Licinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1547
+4176,SCRI4176 -. Scribonius (7) Curio,Scribonius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2443
+4176,SCRI4176 -. Scribonius (7) Curio,Scribonius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3893
+4177,VIPS4177 L.? Vipsanius (B),Vipsanius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4949
+4181,CORN4181 Cn. Cornelius (108) Cinna Magnus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2663
+4181,CORN4181 Cn. Cornelius (108) Cinna Magnus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3934
+4186,IULI4186 Cn. Iulius (A) Caesar,Iulius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2044
+4187,ANTO4187 -. Antonius (Helios 2) Helios,Antonius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2392
+4187,ANTO4187 -. Antonius (Helios 2) Helios,Antonius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4722
+4194,CLAU4194 -. Claudius (139) Drusus,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2571
+4194,CLAU4194 -. Claudius (139) Drusus,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4192
+4195,DOMI4195 L. Domitius (28) Ahenobarbus,Domitius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2699
+4196,CORN4196 -. Cornelius (371) Sisenna,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2234
+4196,CORN4196 -. Cornelius (371) Sisenna,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4306
+4198,AURE4198 M. Aurelius (108) Cotta Cotta,Aurelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2026
+4200,FULV4200 A. Fulvius (A),Fulvius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4199
+4208,CLOD4208 M. Clodius (6.67) Aesopus,Clodius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4209
+4211,IUNI4211 M. Iunius (125) Pera,Iunius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4212
+4217,SEMP4217 Ti. Sempronius (52) Gracchus,Sempronius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,866
+4218,FURI4218 P. Furius (81) Philus,Furius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,814
+4222,AEMI4222 L. Aemilius (60) Lepidus,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,792
+4223,AEMI4223 Q. Aemilius (77) Lepidus,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,792
+4225,QUIN4225 M. Quinctilius (10) Varus,Quinctilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1041
+4234,FABI4234 -. Fabius (51) Buteo,Fabius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,762
+4237,ASIN4237 -. Asinius (37) Saloninus,Asinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2553
+4237,ASIN4237 -. Asinius (37) Saloninus,Asinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4742
+4238,ASIN4238 C. Asinius (15) Gallus,Asinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2553
+4238,ASIN4238 C. Asinius (15) Gallus,Asinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4742
+4239,ASIN4239 Herius Asinius (6),Asinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2553
+4239,ASIN4239 Herius Asinius (6),Asinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4742
+4256,CASS4256 -. Cassius (1),Cassius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2458
+4256,CASS4256 -. Cassius (1),Cassius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3963
+4261,PORC4261 L.? Porcius (8) Cato,Porcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2241
+4261,PORC4261 L.? Porcius (8) Cato,Porcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3883
+4265,SERG4265 M.? Sergius (1) (Catilina?),Sergius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3939
+4265,SERG4265 M.? Sergius (1) (Catilina?),Sergius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4784
+4268,SEMP4268 -. Sempronius (40) Gracchus,Sempronius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1598
+4268,SEMP4268 -. Sempronius (40) Gracchus,Sempronius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3863
+4270,LICI4270 P. Licinius (70) Crassus Dives,Licinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1500
+4270,LICI4270 P. Licinius (70) Crassus Dives,Licinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3996
+4281,CORN4281 L. Cornelius (379) Sulla,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1223
+4283,VALE4283 M. Valerius (B) Messalla,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1888
+4294,LIVI4294 M. Livius (20) Drusus Libo,Livius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2518
+4297,IULI4297 L. Iulius (145) Caesar,Iulius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2808
+4297,IULI4297 L. Iulius (145) Caesar,Iulius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4174
+4298,OCTA4298 C. Octavius (79) Rufus,Octavius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4507
+4311,CLAU4311 -. Claudius (290) Pulcher,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1753
+4314,STAT4314 -. Statilius (cf. 36) Corvinus,Statilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4313
+4314,STAT4314 -. Statilius (cf. 36) Corvinus,Statilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4972
+4315,VALE4315 M. Valerius (260) Messalla Barbatus Appianus,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2867
+4317,SULP4317 C. Sulpicius (53) Galba,Sulpicius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2971
+4321,CLAU4321 Ti. Claudius (248) Nero,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,591
+4322,HORT4322 M. Hortensius (12) Hortalus,Hortensius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2554
+4324,AEMI4324 Mam. Aemilius (139) Scaurus,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3935
+4328,FABI4328 -. Fabius (102) Maximus,Fabius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2379
+4330,QUIN4330 P. Quinctilius (20) Varus,Quinctilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2542
+4332,QUIN4332 -. Quinctilius (28) Varus,Quinctilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4330
+4332,QUIN4332 -. Quinctilius (28) Varus,Quinctilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4331
+4333,CORN4333 P.? Cornelius (130) Dolabella,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2515
+4333,CORN4333 P.? Cornelius (130) Dolabella,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4069
+4335,CORN4335 P. Cornelius (143) Lentulus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4333
+4335,CORN4335 P. Cornelius (143) Lentulus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4334
+4336,CALP4336 L. Calpurnius (99) Piso Frugi,Calpurnius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2168
+4336,CALP4336 L. Calpurnius (99) Piso Frugi,Calpurnius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3927
+4339,HORT4339 -. Hortensius (10) Corbio,Hortensius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2554
+4346,OCTA4346 -. Octavius (B) C. f. Balbus,Octavius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3758
+4347,VETU4347 T. Veturius (9),Veturius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,549
+4348,NONI4348 Sex.? Nonius (B) Sufenas,Nonius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2010
+4349,ANNE4349 M. Anneius (4) Ani.,Anneius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4747
+4349,ANNE4349 M. Anneius (4) Ani.,Anneius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4748
+4355,VALE4355 M. Valerius (264) Messalla Messallinus,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2758
+4355,VALE4355 M. Valerius (264) Messalla Messallinus,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4766
+4356,"AURE4356 M. Aurelius (110, 111) Cotta Maximus or Messallinus",Aurelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2758
+4356,"AURE4356 M. Aurelius (110, 111) Cotta Maximus or Messallinus",Aurelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4248
+4358,NONI4358 Sex. Nonius (46) Quinctilianus,Nonius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2598
+4358,NONI4358 Sex. Nonius (46) Quinctilianus,Nonius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4357
+4363,SENT4363 C. Sentius (9) Saturninus,Sentius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3258
+4372,AEBU4372 P. Aebutius (8),Aebutius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4832
+4399,CLUE4399 N. Cluentius (2),Cluentius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4797
+4400,CLUE4400 A. Cluentius (4) Clu. Habitus,Cluentius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4548
+4400,CLUE4400 A. Cluentius (4) Clu. Habitus,Cluentius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4752
+4403,CONS4403 Q. Considius (10) Gallus,Considius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3169
+4405,CORN4405 C. Cornelius (19),Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4406
+4440,MAGI4440 M. Magius (19) Surus,Magius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4439
+4461,SULP4461 Ser. Sulpicius (96) Lem. Rufus,Sulpicius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2088
+4461,SULP4461 Ser. Sulpicius (96) Lem. Rufus,Sulpicius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3984
+4477,TUTI4477 -. Tuticanus (3) Gallus,Tuticanus,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3263
+4498,MAGI4498 L. Magius (6),Magius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4439
+4507,OCTA4507 C. Octavius (10) Sca.,Octavius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,798
+4507,OCTA4507 C. Octavius (10) Sca.,Octavius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4298
+4525,SEIU4525 M. Seius (4) Aem.,Seius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2080
+4611,POET4611 C. Poetelius (8) Libo Visolus,Poetelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,499
+4613,MARC4613 C. (or Cn.) Marcius (50) Coriolanus,Marcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,5025
+4614,ANTI4614 -.? Antistius (not in RE) A. f.,Antistius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,287
+4635,AEMI4635 M. Aemilius (67) M. f. M. n. Lepidus,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,792
+4665,PAPI4665 C. Papirius (57) C. f. L. n. Maso,Papirius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4993
+4682,OCTA4682 Cn. Octavius (not in RE) Cn. f.,Octavius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4681
+4684,CORN4684 Cn. Cornelius (180) L. f. Lentulus (Marcellinus),Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2664
+4686,AQUI4686 -. Aquillius (not in RE) Florus,Aquillius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1757
+4692,EGNA4692 -. Egnatius (6),Egnatius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4691
+4696,ANON4696 -. - (not in RE) Arrianus,-,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4695
+4698,ARRU4698 -. Arruntius (cf. 2),Arruntius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4697
+4702,VETU4702 -. Vetulinus (not in RE) Vetulinus,Vetulinus,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4701
+4706,AEMI4706 Q. Aemilius (A) Lepidus,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1180
+4707,AEMI4707 M'. Aemilius (C) Lepidus,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1471
+4709,AEMI4709 M'. Aemilius (E) Lepidus,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,785
+4712,AEMI4712 M'. Aemilius (62a) Lepidus,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2038
+4712,AEMI4712 M'. Aemilius (62a) Lepidus,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3924
+4714,AFRA4714 A. Afranius (A),Afranius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2074
+4716,ACIL4716 M'. Acilius (39) Glabrio,Acilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2119
+4716,ACIL4716 M'. Acilius (39) Glabrio,Acilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3937
+4718,APPU4718 L. Appuleius (A),Appuleius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2318
+4721,PTOL4721 -. Ptolemaios (38) Philadelphos,Ptolemaios,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2392
+4721,PTOL4721 -. Ptolemaios (38) Philadelphos,Ptolemaios,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4722
+4723,CLAU4723 M. Claudius (234) Marcellus Aeserninus,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2570
+4726,AEMI4726 L. Aemilius (115) Paullus,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2895
+4726,AEMI4726 L. Aemilius (115) Paullus,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4729
+4727,AEMI4727 M. Aemilius (75) Lepidus,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2895
+4727,AEMI4727 M. Aemilius (75) Lepidus,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4729
+4734,AEMI4734 M'. Aemilius (63) Lepidus,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2931
+4734,AEMI4734 M'. Aemilius (63) Lepidus,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4735
+4738,CASS4738 -. Cassius (A),Cassius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4256
+4738,CASS4738 -. Cassius (A),Cassius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4791
+4739,CASS4739 -. Cassius (60) Longinus,Cassius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4165
+4739,CASS4739 -. Cassius (60) Longinus,Cassius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4738
+4741,DOMI4741 Cn. Domitius (25) Ahenobarbus,Domitius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4175
+4741,DOMI4741 Cn. Domitius (25) Ahenobarbus,Domitius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4195
+4745,ALFI4745 M. Alfidius (B),Alfidius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4744
+4753,AEMI4753 M'. Aemilius (D),Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4754
+4755,LIVI4755 M. Livius (A) Aemilianus,Livius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,826
+4757,CORN4757 -. Cornelius (339) Scipio Asiagenus Comatus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1415
+4760,CLAU4760 Ap. Claudius (13),Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1753
+4763,CORN4763 -. Cornelius (227) Marcellinus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2082
+4763,CORN4763 -. Cornelius (227) Marcellinus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3906
+4769,CORN4769 Cn. Cornelius (181) Lentulus,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2338
+4770,CALP4770 Cn. Calpurnius (70) Piso,Calpurnius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2543
+4771,CALP4771 L. Calpurnius (74) Piso,Calpurnius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2543
+4778,CANI4778 L. Caninius (5) Gallus,Caninius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2821
+4778,CANI4778 L. Caninius (5) Gallus,Caninius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4341
+4785,CLAU4785 Drusus Claudius (138),Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3950
+4785,CLAU4785 Drusus Claudius (138),Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4179
+4787,MARC4787 Q. Marcius (A) Philippus,Marcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1403
+4789,IULI4789 -. Iulius (138) Caesar,Iulius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3914
+4789,IULI4789 -. Iulius (138) Caesar,Iulius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4194
+4793,CALP4793 L. Calpurnius (75) Piso,Calpurnius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4336
+4794,LICI4794 M. Licinius (73) Crassus Frugi,Licinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4336
+4798,CORN4798 C. Cornelius (7),Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4405
+4802,CLAU4802 M. Claudius (B) Marcellus,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,662
+4809,FABI4809 Q. Fabius (A) Labeo,Fabius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1117
+4811,FABI4811 -. Fabius (101) Maximus,Fabius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2379
+4812,FURN4812 C. Furnius (4),Furnius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2521
+4813,FUFI4813 L. Fufius (8) Calenus,Fufius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2321
+4818,IUNI4818 D. Iunius (B) Silanus,Iunius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,925
+4819,IUNI4819 L. Iunius (C) Silanus,Iunius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1566
+4821,IUNI4821 -. Iunius (72) Damasippus,Iunius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1980
+4828,IULI4828 C. Iulius (134) Caesar,Iulius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2808
+4828,IULI4828 C. Iulius (134) Caesar,Iulius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4174
+4840,VALE4840 M. Valerius (259) Messalla Barbatus,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4255
+4840,VALE4840 M. Valerius (259) Messalla Barbatus,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4315
+4844,IUNI4844 L. Iunius (20),Iunius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4819
+4849,ANNE4849 M. Anneius (Annaeus 4),Anneius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4747
+4849,ANNE4849 M. Anneius (Annaeus 4),Anneius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4748
+4857,NONI4857 L. Nonius (16) Asprenas,Nonius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2598
+4857,NONI4857 L. Nonius (16) Asprenas,Nonius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4357
+4860,CORN4860 P. Cornelius (235) Lentulus Scipio,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4769
+4861,CORN4861 Ser. Cornelius (226) Lentulus Maluginensis,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4769
+4864,CORN4864 P. Cornelius (333) Scipio,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3906
+4864,CORN4864 P. Cornelius (333) Scipio,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4863
+4866,CORN4866 L. Cornelius (cf. 339) Scipio,Cornelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1415
+4872,POST4872 A. Postumius (A) Albinus,Postumius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,766
+4873,VALE4873 P. Valerius (214) Laevinus,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,807
+4874,MARC4874 L. Marcius (B),Marcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,681
+4875,LICI4875 M. Licinius (55a) Crassus,Licinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4877
+4876,LICI4876 -. Licinius (178),Licinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1321
+4878,MANL4878 T. Manlius (B) Torquatus,Manlius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1384
+4879,MARC4879 T. Marcius (65) Figulus,Marcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4880
+4880,MARC4880 C. Marcius (C),Marcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,681
+4881,RUTI4881 C. Rutilius (33) Rufus,Rutilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1397
+4885,MANL4885 A. Manlius (74) Torquatus,Manlius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1442
+4886,VALE4886 C. Valerius (D) Flaccus,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1466
+4887,MARC4887 C. Marcius (not in RE) Censorinus,Marcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1475
+4888,MUMM4888 -. Mummius (1),Mummius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1495
+4889,LICI4889 P. Licinius (A) Crassus Dives,Licinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,926
+4890,SEMP4890 -. Sempronius (38) Gracchus,Sempronius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1525
+4890,SEMP4890 -. Sempronius (38) Gracchus,Sempronius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3864
+4891,VERG4891 Sp. Verginius (10),Verginius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,153
+4895,MARC4895 C. Marcius (D) Figulus,Marcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1621
+4896,OPIM4896 L. Opimius (5),Opimius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1639
+4897,QUIN4897 L. Quinctilius (6),Quinctilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4898
+4903,POMP4903 A. Pompeius (2),Pompeius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4276
+4904,VALE4904 L. Valerius (180) Flaccus,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1821
+4905,SENT4905 Cn. Sentius (A) Saturninus,Sentius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1829
+4906,VARI4906 Q. Varius (5),Varius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1877
+4908,VALE4908 M. Valerius (C) Messalla,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1888
+4910,LICI4910 P. Licinius (124) Murena,Licinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1788
+4912,"MARC4912 -. Marcius (41, 42) Censorinus",Marcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1947
+4916,VENU4916 -. Venuleius (2),Venuleius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2004
+4917,PAPI4917 Cn. Papirius (A) Carbo,Papirius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1696
+4921,MARC4921 -. Marcius (88) Rex,Marcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2151
+4921,MARC4921 -. Marcius (88) Rex,Marcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4197
+4924,PETR4924 -. Petreius (1),Petreius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2280
+4932,SERV4932 P. Servilius (26) Vatia Isauricus,Servilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2433
+4932,SERV4932 P. Servilius (26) Vatia Isauricus,Servilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3973
+4933,LUCI4933 C. Lucilius (A),Lucilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3207
+4936,SULP4936 Ser. Sulpicius (not in RE) Camerinus Cornutus,Sulpicius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,138
+4937,POMP4937 Q. Pompeius (13) Stephanephor,Pompeius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2478
+4941,LICI4941 M. Licinius (59) Crassus Frugi,Licinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2661
+4942,MARC4942 C. Marcius (44) Censorinus,Marcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2711
+4943,MANL4943 T. Manlius (86) Torquatus,Manlius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2250
+4943,MANL4943 T. Manlius (86) Torquatus,Manlius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4923
+4952,VALE4952 L. Valerius (58),Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,5032
+4956,POMP4956 Q. Pompeius (14),Pompeius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3385
+4957,VERG4957 L. Verginius (16) Tricostus,Verginius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,343
+4958,SERV4958 M. Servilius (C),Servilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1266
+4959,VALE4959 M. Valerius (71),Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,366
+4961,QUIN4961 T. Quinctius (44) Flamininus,Quinctius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3824
+4965,SULP4965 Ser. Sulpicius (not in RE),Sulpicius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,401
+4971,SERV4971 P. Servilius (pr. 25) Vatia,Servilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2433
+4971,SERV4971 P. Servilius (pr. 25) Vatia,Servilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3973
+4973,STAT4973 -. Statilius (17) Corvinus,Statilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4313
+4973,STAT4973 -. Statilius (17) Corvinus,Statilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4972
+4974,STAT4974 T. Statilius (37) Taurus,Statilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4313
+4974,STAT4974 T. Statilius (37) Taurus,Statilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4972
+4975,SULP4975 C. Sulpicius (54),Sulpicius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4317
+4975,SULP4975 C. Sulpicius (54),Sulpicius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4318
+4980,SULP4980 M. Sulpicius (not in RE),Sulpicius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,246
+4985,MANL4985 T. Manlius (not in RE) Torquatus,Manlius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,497
+4988,VALE4988 M. Valerius (73),Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3
+4992,LIVI4992 M. Livius (13) Drusus,Livius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,624
+4993,PAPI4993 C. Papirius (B) Maso,Papirius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,659
+4994,VALE4994 P. Valerius (215),Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,682
+4995,SULP4995 Ser. Sulpicius (not in RE) Galba,Sulpicius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,684
+5002,PAPI5002 L. Papirius (C) Maso,Papirius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,659
+5005,VETU5005 L. Veturius (2),Veturius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,949
+5007,SEMP5007 -. Sempronius (39) Gracchus,Sempronius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1525
+5007,SEMP5007 -. Sempronius (39) Gracchus,Sempronius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3864
+5008,VALE5008 M'. Valerius (A) Messalla,Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1888
+5009,MANL5009 T. Manlius (36),Manlius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4954
+5010,IULI5010 Drusus Iulius (136) Caesar,Iulius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3950
+5010,IULI5010 Drusus Iulius (136) Caesar,Iulius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4179
+5011,LIVI5011 L. Livius (27) Ocella,Livius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4317
+5011,LIVI5011 L. Livius (27) Ocella,Livius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4318
+5027,POET5027 C. Poetelius (2),Poetelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,593
+5029,QUIN5029 K. Quinctius (8),Quinctius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,142
+5029,QUIN5029 K. Quinctius (8),Quinctius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,5019
+5032,VOLU5032 Volus. Valerius (90),Valerius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,13
+5034,POMP5034 Sex. Pompeius (16),Pompeius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1781
+5037,POST5037 Sp. Postumius (23),Postumius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,1502
+5160,ALEX5160 -. Alexander (28) Helios,Alexander,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2392
+5160,ALEX5160 -. Alexander (28) Helios,Alexander,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4722
+5168,VELL5168 -. Velleius (3),Velleius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2836
+5184,ALBI5184 -. Albius (8) Stat. f. Clu. Oppianicus,Albius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4545
+5184,ALBI5184 -. Albius (8) Stat. f. Clu. Oppianicus,Albius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,5292
+5198,ATIL5198 L. Atilius (cf. 10) A. f.,Atilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,5197
+5247,FULC5247 M. Fulcinius (cf. 4) M. f. Ste.,Fulcinius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,5246
+5311,ROSC5311 Sex. Roscius (7) Sex. f.,Roscius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4453
+5398,AURE5398 L. Aurelius (20) L. f.,Aurelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,5400
+5401,AURE5401 C. Aurelius (17) L. f.,Aurelius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,5400
+5443,CORN5443 -. Cornificius (3),Cornificius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2573
+5464,GALL5464 M. Gallius (not in RE) M. f.  Axianus,Gallius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2128
+5503,MARC5503 M. Marcilius (2),Marcilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,5683
+5521,PACO5521 -. Paconius (cf. Lepta 1) Q. f. Lepta,Paconius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,2512
+5528,PINN5528 -. Pinnius (cf. 3) T. f.,Pinnius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,5527
+5545,PUBL5545 -. Publilius (4),Publilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4964
+5569,SITT5569 P. Sittius (cf. 3) P. f. P. n.,Sittius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4139
+5682,IUVE5682 -. Iuventius (cf. 27) Talna,Iuventius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,5476

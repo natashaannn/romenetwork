@@ -1,0 +1,339 @@
+
+id,name,nomen,sex,parent
+60,VALE0060  Valeria (385),Valeria,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4883
+291,POST0291  Postumia (66),Postumia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,249
+1560,CLAU1560  Claudia (384),Claudia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1452
+1560,CLAU1560  Claudia (384),Claudia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4288
+1646,LICI1646  Licinia (181) C. f.,Licinia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1547
+2197,PUBL2197  Publicia (27),Publicia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4232
+2197,PUBL2197  Publicia (27),Publicia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4970
+2202,FONT2202  Fonteia (31),Fonteia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1884
+3860,CORN3860  Cornelia (405),Cornelia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,817
+3861,MARC3861  Marcia (112),Marcia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,681
+3862,IUNI3862  Iunia (A),Iunia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1565
+3862,IUNI3862  Iunia (A),Iunia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3996
+3863,LICI3863  Licinia (180),Licinia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1500
+3863,LICI3863  Licinia (180),Licinia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3996
+3864,CLAU3864  Claudia (385),Claudia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1452
+3864,CLAU3864  Claudia (385),Claudia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4288
+3867,CORN3867  Cornelia (412),Cornelia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1746
+3867,CORN3867  Cornelia (412),Cornelia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4286
+3870,SERV3870  Servilia (101),Servilia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1796
+3870,SERV3870  Servilia (101),Servilia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3949
+3873,CORN3873  Cornelia (413),Cornelia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1871
+3873,CORN3873  Cornelia (413),Cornelia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4359
+3874,IULI3874  Iulia (547),Iulia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1957
+3874,IULI3874  Iulia (547),Iulia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3873
+3876,CALP3876  Calpurnia (126),Calpurnia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2168
+3876,CALP3876  Calpurnia (126),Calpurnia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3927
+3877,POMP3877  Pompeia (52),Pompeia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3866
+3877,POMP3877  Pompeia (52),Pompeia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3867
+3878,IULI3878  Iulia (543),Iulia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1825
+3878,IULI3878  Iulia (543),Iulia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3993
+3880,SERG3880  Sergia (50),Sergia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3939
+3880,SERG3880  Sergia (50),Sergia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4784
+3882,CORN3882  Cornelia (417),Cornelia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2347
+3882,CORN3882  Cornelia (417),Cornelia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4262
+3883,MARC3883  Marcia (115),Marcia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2303
+3884,ATIA3884  Atia (34) maior,Atia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2329
+3884,ATIA3884  Atia (34) maior,Atia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4184
+3885,IULI3885  Iulia (545),Iulia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1799
+3885,IULI3885  Iulia (545),Iulia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4258
+3890,PORC3890  Porcia (28),Porcia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2241
+3890,PORC3890  Porcia (28),Porcia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4260
+3892,TURR3892  Turrania (14),Turrania,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2669
+3893,FULV3893  Fulvia (113),Fulvia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3907
+3893,FULV3893  Fulvia (113),Fulvia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4109
+3894,IULI3894  Iulia (544),Iulia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1798
+3895,SULP3895  Sulpicia (112),Sulpicia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2430
+3895,SULP3895  Sulpicia (112),Sulpicia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3894
+3898,TANU3898  Tanusia (3),Tanusia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4555
+3901,IUNI3901  Iunia (193),Iunia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2120
+3901,IUNI3901  Iunia (193),Iunia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3870
+3902,SCRI3902  Scribonia (31),Scribonia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2518
+3906,SCRI3906  Scribonia (32),Scribonia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3080
+3906,SCRI3906  Scribonia (32),Scribonia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4939
+3907,SEMP3907  Sempronia (102) Tuditana,Sempronia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3923
+3908,MUCI3908  Mucia (28) Tertia,Mucia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1692
+3909,OCTA3909  Octavia (96) minor,Octavia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2104
+3909,OCTA3909  Octavia (96) minor,Octavia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3884
+3910,POMP3910  Pompeia (55),Pompeia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2254
+3910,POMP3910  Pompeia (55),Pompeia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3902
+3912,ANTO3912  Antonia (112),Antonia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2392
+3912,ANTO3912  Antonia (112),Antonia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4110
+3914,ANTO3914  Antonia (114) minor,Antonia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2392
+3914,ANTO3914  Antonia (114) minor,Antonia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3909
+3915,LAEL3915  Laelia (26),Laelia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1524
+3919,DOMI3919  Domitia (90),Domitia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1630
+3920,CORN3920  Cornelia (436) = Fausta Cornelia,Cornelia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1746
+3920,CORN3920  Cornelia (436) = Fausta Cornelia,Cornelia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3929
+3926,ANNI3926  Annia (A),Annia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3925
+3927,RUTI3927  Rutilia (39),Rutilia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2096
+3928,TULL3928  Tullia (60),Tullia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2072
+3928,TULL3928  Tullia (60),Tullia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3940
+3929,CAEC3929  Caecilia (134) Metella,Caecilia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1649
+3934,POMP3934  Pompeia (54),Pompeia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1976
+3934,POMP3934  Pompeia (54),Pompeia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3908
+3937,AEMI3937  Aemilia (154),Aemilia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1645
+3937,AEMI3937  Aemilia (154),Aemilia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3929
+3942,OTAC3942  Otacilia (18),Otacilia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3941
+3943,FABI3943  Fabia (170),Fabia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,559
+3945,AEMI3945  Aemilia (179) Tertia,Aemilia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,826
+3946,CORN3946  Cornelia (407),Cornelia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,878
+3946,CORN3946  Cornelia (407),Cornelia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3945
+3947,CAEC3947  Caecilia (132) Metella,Caecilia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1544
+3948,IULI3948  Iulia (541),Iulia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4101
+3948,IULI3948  Iulia (541),Iulia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4307
+3949,LIVI3949  Livia (35),Livia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1651
+3949,LIVI3949  Livia (35),Livia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4293
+3952,QUIN3952  Quinctilia (19),Quinctilia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2376
+3953,FABI3953  Fabia (C) Paulina,Fabia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2379
+3958,SERV3958  Servilia (102),Servilia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3917
+3958,SERV3958  Servilia (102),Servilia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3949
+3960,SEMP3960  Sempronia (100) Tuditana,Sempronia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1548
+3961,LUTA3961  Lutatia (25),Lutatia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1949
+3962,FUFI3962  Fufia (20),Fufia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2321
+3963,IUNI3963  Iunia (206) Tertia,Iunia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2120
+3963,IUNI3963  Iunia (206) Tertia,Iunia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3870
+3966,POMP3966  Pomponia (A),Pomponia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3978
+3966,POMP3966  Pomponia (A),Pomponia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4552
+3967,CALV3967  Calventia (B),Calventia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,5212
+3968,POMP3968  Pompeia (53),Pompeia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1767
+3968,POMP3968  Pompeia (53),Pompeia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4207
+3969,LAEL3969  Laelia (25),Laelia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1524
+3971,HORT3971  Hortensia (15),Hortensia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1670
+3971,HORT3971  Hortensia (15),Hortensia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1716
+3971,HORT3971  Hortensia (15),Hortensia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3960
+3973,IUNI3973  Iunia (192),Iunia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2120
+3973,IUNI3973  Iunia (192),Iunia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3538
+3973,IUNI3973  Iunia (192),Iunia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3870
+3980,CAEC3980  Caecilia (78) Attica = Pomponia Attica,Caecilia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3964
+3980,CAEC3980  Caecilia (78) Attica = Pomponia Attica,Caecilia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3965
+3981,OPPI3981  Oppia (37),Oppia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3230
+3991,RUTI3991  Rutilia (38),Rutilia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1397
+3992,SERV3992  Servilia (100),Servilia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1755
+3993,FULV3993  Fulvia (111),Fulvia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1624
+4004,PUBL4004  Publilia (17),Publilia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4964
+4005,LICI4005  Licinia (184),Licinia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1679
+4005,LICI4005  Licinia (184),Licinia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4031
+4008,CLAU4008  Claudia (389),Claudia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2140
+4010,TULL4010  Tullia (A),Tullia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4082
+4011,CORN4011  Cornificia (12),Cornificia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2181
+4012,PORC4012  Porcia (27),Porcia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1806
+4012,PORC4012  Porcia (27),Porcia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3949
+4015,FADI4015  Fadia (13),Fadia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4079
+4020,AEMI4020  Aemilia (152),Aemilia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1134
+4020,AEMI4020  Aemilia (152),Aemilia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4201
+4022,AEMI4022  Aemilia (151),Aemilia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1134
+4022,AEMI4022  Aemilia (151),Aemilia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4201
+4023,LICI4023  Licinia (179),Licinia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1500
+4023,LICI4023  Licinia (179),Licinia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3996
+4029,CAEC4029  Caecilia (131) Metella,Caecilia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1424
+4030,LICI4030  Licinia (183),Licinia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1679
+4030,LICI4030  Licinia (183),Licinia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4031
+4031,MUCI4031  Mucia (27),Mucia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1613
+4031,MUCI4031  Mucia (27),Mucia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3969
+4032,MUCI4032  Mucia (26),Mucia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1613
+4032,MUCI4032  Mucia (26),Mucia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3969
+4035,POMP4035  Pompeia (51),Pompeia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1551
+4042,CLAU4042  Claudia (435) Quinta,Claudia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,744
+4043,CLOD4043  Clodia (66),Clodia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1807
+4043,CLOD4043  Clodia (66),Clodia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4052
+4049,LUTA4049  Lutatia (24),Lutatia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1731
+4049,LUTA4049  Lutatia (24),Lutatia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4156
+4051,AEMI4051  Aemilia (180) Tertia,Aemilia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1134
+4051,AEMI4051  Aemilia (180) Tertia,Aemilia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4201
+4052,CAEC4052  Caecilia (135) Metella,Caecilia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1635
+4054,CAEC4054  Caecilia (130) Metella,Caecilia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1424
+4056,CLAU4056  Claudia (386),Claudia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1452
+4056,CLAU4056  Claudia (386),Claudia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4288
+4058,CLAU4058  Claudia (388),Claudia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2140
+4058,CLAU4058  Claudia (388),Claudia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4765
+4062,POMP4062  Pompeia (56),Pompeia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1767
+4062,POMP4062  Pompeia (56),Pompeia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4207
+4063,CORN4063  Cornelia (416),Cornelia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1882
+4063,CORN4063  Cornelia (416),Cornelia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4761
+4065,AMPI4065  Ampia (3),Ampia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2291
+4065,AMPI4065  Ampia (3),Ampia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4064
+4070,VALE4070  Valeria (394) = Paulla Valeria,Valeria,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2117
+4070,VALE4070  Valeria (394) = Paulla Valeria,Valeria,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3933
+4075,ALBI4075  Albinia (A),Albinia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3142
+4083,NUMI4083  Numitoria (8),Numitoria,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4111
+4085,BAEB4085  Baebia (47b),Baebia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1325
+4085,BAEB4085  Baebia (47b),Baebia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3099
+4089,FALC4089  Falcidia (A),Falcidia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4088
+4091,SEMP4091  Sempronia (99),Sempronia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1182
+4091,SEMP4091  Sempronia (99),Sempronia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3946
+4092,VALG4092  Valgia (A),Valgia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4968
+4095,ANTO4095  Antonia (109),Antonia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1705
+4097,CLOD4097  Clodia (67),Clodia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1807
+4097,CLOD4097  Clodia (67),Clodia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4052
+4099,MARI4099  Maria (74),Maria,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4271
+4099,MARI4099  Maria (74),Maria,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4275
+4105,GRAT4105  Gratidia (B),Gratidia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1786
+4105,GRAT4105  Gratidia (B),Gratidia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4820
+4110,ANTO4110  Antonia (110),Antonia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1969
+4131,RABI4131  Rabiria (8),Rabiria,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4412
+4135,SEST4135  Sestia (13),Sestia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2296
+4135,SEST4135  Sestia (13),Sestia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4075
+4143,ANTO4143  Antonia (111),Antonia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2077
+4143,ANTO4143  Antonia (111),Antonia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3878
+4148,ANNI4148  Annia (102),Annia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3325
+4156,SERV4156  Servilia (98),Servilia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1556
+4164,SULP4164  Sulpicia (111),Sulpicia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2088
+4164,SULP4164  Sulpicia (111),Sulpicia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3984
+4165,AELI4165  Aelia (A),Aelia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3304
+4165,AELI4165  Aelia (A),Aelia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4164
+4166,TERE4166  Terentia (96),Terentia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2581
+4172,SERV4172  Servilia (99),Servilia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1629
+4174,IULI4174  Iulia (550),Iulia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2597
+4174,IULI4174  Iulia (550),Iulia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3906
+4175,ANTO4175  Antonia (113) maior,Antonia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2392
+4175,ANTO4175  Antonia (113) maior,Antonia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3909
+4179,VIPS4179  Vipsania (1) Agrippina,Vipsania,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2808
+4179,VIPS4179  Vipsania (1) Agrippina,Vipsania,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3980
+4182,VIPS4182  Vipsania (4) Polla,Vipsania,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4949
+4184,IULI4184  Iulia (546),Iulia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1799
+4184,IULI4184  Iulia (546),Iulia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4258
+4190,CLAU4190  Claudia (390),Claudia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2219
+4190,CLAU4190  Claudia (390),Claudia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3893
+4192,LIVI4192  Livia (37),Livia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2520
+4192,LIVI4192  Livia (37),Livia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4312
+4197,CLOD4197  Clodia (72) Tertia,Clodia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1807
+4197,CLOD4197  Clodia (72) Tertia,Clodia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4052
+4201,PAPI4201  Papiria (78),Papiria,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4665
+4204,MUMM4204  Mummia (A),Mummia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1495
+4206,CLAU4206  Claudia (382),Claudia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,591
+4207,LUCI4207  Lucilia (33),Lucilia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3207
+4210,CORN4210  Cornelia (408),Cornelia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1362
+4210,CORN4210  Cornelia (408),Cornelia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1631
+4214,LICI4214  Licinia (178),Licinia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1321
+4219,CALA4219  Calavia (A),Calavia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4220
+4219,CALA4219  Calavia (A),Calavia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4221
+4220,CLAU4220  Claudia (383),Claudia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,858
+4228,CORN4228  Cornelia (406),Cornelia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,878
+4228,CORN4228  Cornelia (406),Cornelia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3945
+4229,PORC4229  Porcia (29),Porcia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2241
+4229,PORC4229  Porcia (29),Porcia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3883
+4235,RUPI4235  Rupilia (12),Rupilia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1591
+4236,CORN4236  Cornelia (414),Cornelia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1871
+4236,CORN4236  Cornelia (414),Cornelia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4359
+4241,SULP4241  Sulpicia (A),Sulpicia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4240
+4245,LIVI4245  Livia (34),Livia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1519
+4246,POMP4246  Pomponia (28),Pomponia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,5000
+4249,VALE4249  Valeria (390),Valeria,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2107
+4249,VALE4249  Valeria (390),Valeria,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4191
+4251,OCTA4251  Octavia (95) maior,Octavia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2104
+4251,OCTA4251  Octavia (95) maior,Octavia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4252
+4253,ANON4253  - (Kleopatra 28) Selene,-,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2392
+4253,ANON4253  - (Kleopatra 28) Selene,-,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4722
+4254,CLAU4254  Claudia (422) Marcella maior,Claudia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2396
+4254,CLAU4254  Claudia (422) Marcella maior,Claudia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3909
+4255,CLAU4255  Claudia (423) Marcella minor,Claudia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2396
+4255,CLAU4255  Claudia (423) Marcella minor,Claudia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3909
+4259,SERV4259  Servilia (103),Servilia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3917
+4259,SERV4259  Servilia (103),Servilia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4289
+4260,ATIL4260  Atilia (79),Atilia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4263
+4264,SERG4264  Sergia (A),Sergia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1998
+4269,SEMP4269  Sempronia (103),Sempronia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1598
+4269,SEMP4269  Sempronia (103),Sempronia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3863
+4277,ANTI4277  Antistia (60),Antistia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1932
+4277,ANTI4277  Antistia (60),Antistia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4278
+4278,CALP4278  Calpurnia (125),Calpurnia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1663
+4280,CORN4280  Cornelia (C),Cornelia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4281
+4282,VALE4282  Valeria (389),Valeria,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3971
+4282,VALE4282  Valeria (389),Valeria,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4283
+4284,CORN4284  Cornelia (448) Postuma,Cornelia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1746
+4284,CORN4284  Cornelia (448) Postuma,Cornelia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4282
+4289,HORT4289  Hortensia (16),Hortensia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1902
+4292,VALE4292  Valeria (392),Valeria,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2107
+4292,VALE4292  Valeria (392),Valeria,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4191
+4295,MEMM4295  Memmia (38),Memmia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1898
+4303,LUCI4303  Lucilia (34),Lucilia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3207
+4304,SERV4304  Servilia (104),Servilia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2433
+4304,SERV4304  Servilia (104),Servilia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3973
+4306,LOLL4306  Lollia (29),Lollia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2177
+4307,MARC4307  Marcia (113),Marcia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1550
+4309,AUFI4309  Aufidia (A),Aufidia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4310
+4312,ALFI4312  Alfidia (3),Alfidia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4744
+4313,VALE4313  Valeria (402) Messallina,Valeria,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2758
+4313,VALE4313  Valeria (402) Messallina,Valeria,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4248
+4316,LIVI4316  Livia (41) Ocellina,Livia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3050
+4318,MUMM4318  Mummia (26) Achaica,Mummia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2142
+4318,MUMM4318  Mummia (26) Achaica,Mummia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3961
+4320,AELI4320  Aelia (B),Aelia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4530
+4323,AEMI4323  Aemilia (170) Lepida,Aemilia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2931
+4323,AEMI4323  Aemilia (170) Lepida,Aemilia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4735
+4327,MARC4327  Marcia (120),Marcia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2534
+4327,MARC4327  Marcia (120),Marcia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4830
+4334,QUIN4334  Quinctilia (30),Quinctilia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2542
+4340,FABI4340  Fabia (171),Fabia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,498
+4341,ANTO4341  Antonia (108),Antonia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1969
+4343,PORC4343  Porcia (30),Porcia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2241
+4343,PORC4343  Porcia (30),Porcia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3883
+4353,FUND4353  Fundania (8),Fundania,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1789
+4354,COSS4354  Cossinia (A),Cossinia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4019
+4357,QUIN4357  Quinctilia (29),Quinctilia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2542
+4359,ANNI4359  Annia (101),Annia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1616
+4364,MUNA4364  Munatia (41),Munatia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4016
+4683,CAUD4683  Caudina (not in RE) C. f.,Caudina,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3163
+4693,DOMI4693  Domitia (102) Lepida,Domitia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4175
+4693,DOMI4693  Domitia (102) Lepida,Domitia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4195
+4710,AURE4710  Aurelia (A) Orestilla,Aurelia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1627
+4719,MINU4719  Minucia (71),Minucia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2131
+4729,CORN4729  Cornelia (419),Cornelia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3906
+4729,CORN4729  Cornelia (419),Cornelia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4863
+4730,SEMP4730  Sempronia (A) Atratina,Sempronia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2823
+4731,APPU4731  Appuleia (33) Varilla,Appuleia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2927
+4731,APPU4731  Appuleia (33) Varilla,Appuleia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4733
+4733,QUIN4733  Quinctilia (30a),Quinctilia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2542
+4740,DOMI4740  Domitia (91),Domitia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4175
+4740,DOMI4740  Domitia (91),Domitia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4195
+4742,QUIN4742  Quinctia (60),Quinctia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3242
+4747,NONI4747  Nonia (C),Nonia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2010
+4759,CORN4759  Cornelia (411),Cornelia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1695
+4759,CORN4759  Cornelia (411),Cornelia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4029
+4762,CAEC4762  Caecilia (136) Metella,Caecilia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2078
+4765,OCTA4765  Octavia (94),Octavia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2467
+4766,CALP4766  Calpurnia (A),Calpurnia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2272
+4767,PAUL4767  Popillia (33) = Paulla Popillia,Popillia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3790
+4775,DOMI4775  Domitia (94) Calvina,Domitia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2739
+4775,DOMI4775  Domitia (94) Calvina,Domitia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4776
+4776,DOMI4776  Domitia (93) Calvina,Domitia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2313
+4783,CORN4783  Cornelia (415),Cornelia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3869
+4790,PAUL4790  Cassia (B) = Paulla Cassia,Cassia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4256
+4790,PAUL4790  Cassia (B) = Paulla Cassia,Cassia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4791
+4791,SULP4791  Sulpicia (B),Sulpicia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2088
+4791,SULP4791  Sulpicia (B),Sulpicia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3984
+4792,CALP4792  Calpurnia (127),Calpurnia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4336
+4806,CORN4806  Cornelia (445) = Paulla Cornelia,Cornelia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,980
+4806,CORN4806  Cornelia (445) = Paulla Cornelia,Cornelia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4859
+4814,FABI4814  Fabia (168),Fabia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,444
+4815,FABI4815  Fabia (169),Fabia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,444
+4820,MARI4820  Maria (73),Maria,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4271
+4820,MARI4820  Maria (73),Maria,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4275
+4825,SEMP4825  Sempronia (108) Atratina,Sempronia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2823
+4830,ATIA4830  Atia (35) minor,Atia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2329
+4830,ATIA4830  Atia (35) minor,Atia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4184
+4911,MINU4911  Minucia (69),Minucia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2466
+4913,VALE4913  Valeria (395) Polla,Valeria,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1992
+4913,VALE4913  Valeria (395) Polla,Valeria,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4914
+4923,MANL4923  Manlia (107),Manlia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3217
+4940,TERE4940  Terentia (98),Terentia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2581
+4946,SALV4946  Salvidiena (5),Salvidiena,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2788
+4947,VIPS4947  Vipsania (Agrippina 2) Agrippina,Vipsania,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2808
+4947,VIPS4947  Vipsania (Agrippina 2) Agrippina,Vipsania,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4174
+4948,VIPS4948  Vipsania (Iulia 551) Iulia,Vipsania,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2808
+4948,VIPS4948  Vipsania (Iulia 551) Iulia,Vipsania,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4174
+4981,SULP4981  Sulpicia (114),Sulpicia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4292
+4981,SULP4981  Sulpicia (114),Sulpicia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4461
+4982,TERE4982  Terentia (102a) Hispulla,Terentia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4462
+4982,TERE4982  Terentia (102a) Hispulla,Terentia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4983
+5012,LICI5012  Licinia (186),Licinia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1903
+5012,LICI5012  Licinia (186),Licinia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3958
+5020,VALE5020  Valeria (386),Valeria,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3
+5021,VERG5021  Verginia (24),Verginia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,188
+5022,VERG5022  Verginia (25),Verginia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,5024
+5223,CLUE5223  Cluentia (6),Cluentia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4548
+5223,CLUE5223  Cluentia (6),Cluentia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,4752
+5465,GELL5465  Gellia (cf. 15) Cana,Gellia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,5681

@@ -1,0 +1,18 @@
+
+id,name,nomen,sex,fiance
+1957,IULI1957 C. Iulius (131) C. f. C. n. Fab. Caesar,Iulius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4305
+2241,PORC2241 M. Porcius (16) M. f. M. n. Pap. Cato (Uticensis),Porcius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4262
+2597,IULI2597 C. Iulius (132) C. f. C. n. Fab. Caesar Octavianus = C. Octavius C. f. Sca. Thurinus (or Caepias),Iulius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4304
+3874,IULI3874  Iulia (547),Iulia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3875
+3875,SERV3875 -. Servilius (G) Caepio,Servilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3874
+3875,SERV3875 -. Servilius (G) Caepio,Servilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3934
+3904,ANTO3904 M. Antonius (32) Antyllus,Antonius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,4174
+3910,POMP3910  Pompeia (55),Pompeia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3911
+3911,CLAU3911 M. Claudius (230) Marcellus,Claudius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3910
+3912,ANTO3912  Antonia (112),Antonia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3913
+3913,AEMI3913 M. Aemilius (104) Lepidus,Aemilius,http://romanrepublic.ac.uk/rdf/entity/Sex/Male,3912
+3934,POMP3934  Pompeia (54),Pompeia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3875
+4174,IULI4174  Iulia (550),Iulia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,3904
+4262,AEMI4262  Aemilia (166) Lepida,Aemilia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2241
+4304,SERV4304  Servilia (104),Servilia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,2597
+4305,COSS4305  Cossutia (7),Cossutia,http://romanrepublic.ac.uk/rdf/entity/Sex/Female,1957
