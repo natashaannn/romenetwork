@@ -1,0 +1,343 @@
+
+id,name,nomen,birth,death
+60,VALE0060  Valeria (385),Valeria,-525,-425
+84,"OPPI0084  Oppia (36, cf. Opimia 13)",Oppia,-500,-483
+112,ORBI0112  Orbinia (RE 18.1.877),Orbinia,-500,-472
+291,POST0291  Postumia (66),Postumia,-475,-350
+545,MINU0545  Minucia (68),Minucia,-350,-337
+693,SEXT0693  Sextilia (31),Sextilia,-300,-273
+802,TUCC0802  Tuccia (or Luccia) (12),Tuccia (or Luccia),-275,-175
+893,FLOR0893  Floronia (1),Floronia,-250,-216
+894,OPIM0894  Opimia (14),Opimia,-250,-216
+1560,CLAU1560  Claudia (384),Claudia,-160,-75
+1646,LICI1646  Licinia (181) C. f.,Licinia,-140,-113
+1698,AEMI1698  Aemilia (153),Aemilia,-140,-114
+1700,MARC1700  Marcia (114),Marcia,-150,-113
+2121,FABI2121  Fabia (172),Fabia,-100,0
+2122,LICI2122  Licinia (185),Licinia,-100,0
+2197,PUBL2197  Publicia (27),Publicia,-100,0
+2199,ARRU2199  Arruntia (27),Arruntia,-100,0
+2200,PERP2200  Perpennia (8),Perpennia,-100,0
+2201,POPI2201  Popillia (34),Popillia,-100,0
+2202,FONT2202  Fonteia (31),Fonteia,-100,0
+2857,OCCI2857  Occia (3),Occia,-39,19
+3132,AEMI3132  Aemilia (1),Aemilia,-209,-125
+3860,CORN3860  Cornelia (405),Cornelia,-225,-125
+3861,MARC3861  Marcia (112),Marcia,-300,-200
+3862,IUNI3862  Iunia (A),Iunia,-150,-50
+3863,LICI3863  Licinia (180),Licinia,-150,-50
+3864,CLAU3864  Claudia (385),Claudia,-150,-50
+3867,CORN3867  Cornelia (412),Cornelia,-125,-25
+3870,SERV3870  Servilia (101),Servilia,-100,-25
+3873,CORN3873  Cornelia (413),Cornelia,-150,-68
+3874,IULI3874  Iulia (547),Iulia,-73,-54
+3876,CALP3876  Calpurnia (126),Calpurnia,-100,0
+3877,POMP3877  Pompeia (52),Pompeia,-150,-50
+3878,IULI3878  Iulia (543),Iulia,-125,-25
+3879,AURE3879  Aurelia (261) Orestilla,Aurelia,-150,-50
+3880,SERG3880  Sergia (50),Sergia,-175,-50
+3882,CORN3882  Cornelia (417),Cornelia,-75,25
+3883,MARC3883  Marcia (115),Marcia,-75,25
+3884,ATIA3884  Atia (34) maior,Atia,-125,-43
+3885,IULI3885  Iulia (545),Iulia,-150,-50
+3890,PORC3890  Porcia (28),Porcia,-125,-43
+3892,TURR3892  Turrania (14),Turrania,-50,50
+3893,FULV3893  Fulvia (113),Fulvia,-125,-40
+3894,IULI3894  Iulia (544),Iulia,-100,0
+3895,SULP3895  Sulpicia (112),Sulpicia,-75,25
+3898,TANU3898  Tanusia (3),Tanusia,-100,0
+3900,TURI3900  Turia (4),Turia,-100,-25
+3901,IUNI3901  Iunia (193),Iunia,-75,25
+3902,SCRI3902  Scribonia (31),Scribonia,-125,-36
+3906,SCRI3906  Scribonia (32),Scribonia,-100,0
+3907,SEMP3907  Sempronia (102) Tuditana,Sempronia,-175,-100
+3908,MUCI3908  Mucia (28) Tertia,Mucia,-125,-25
+3909,OCTA3909  Octavia (96) minor,Octavia,-100,0
+3910,POMP3910  Pompeia (55),Pompeia,-50,50
+3912,ANTO3912  Antonia (112),Antonia,-50,50
+3914,ANTO3914  Antonia (114) minor,Antonia,-50,50
+3915,LAEL3915  Laelia (26),Laelia,-175,-75
+3919,DOMI3919  Domitia (90),Domitia,-150,-50
+3920,CORN3920  Cornelia (436) = Fausta Cornelia,Cornelia,-87,0
+3924,CORN3924  Cornelia (418),Cornelia,-150,-25
+3926,ANNI3926  Annia (A),Annia,-150,-50
+3927,RUTI3927  Rutilia (39),Rutilia,-100,0
+3928,TULL3928  Tullia (60),Tullia,-79,-45
+3929,CAEC3929  Caecilia (134) Metella,Caecilia,-175,-79
+3933,FLAM3933  Flaminia (10),Flaminia,-150,-50
+3934,POMP3934  Pompeia (54),Pompeia,-125,-46
+3937,AEMI3937  Aemilia (154),Aemilia,-150,-50
+3939,BELL3939  Belliena (A),Belliena,-200,-75
+3940,TERE3940  Terentia (95),Terentia,-125,-25
+3942,OTAC3942  Otacilia (18),Otacilia,-325,-225
+3943,FABI3943  Fabia (170),Fabia,-325,-225
+3944,SALO3944  Salonia (A),Salonia,-200,-100
+3945,AEMI3945  Aemilia (179) Tertia,Aemilia,-225,-125
+3946,CORN3946  Cornelia (407),Cornelia,-225,-125
+3947,CAEC3947  Caecilia (132) Metella,Caecilia,-175,-75
+3948,IULI3948  Iulia (541),Iulia,-150,-69
+3949,LIVI3949  Livia (35),Livia,-175,-92
+3952,QUIN3952  Quinctilia (19),Quinctilia,-150,-53
+3953,FABI3953  Fabia (C) Paulina,Fabia,-75,25
+3958,SERV3958  Servilia (102),Servilia,-100,0
+3960,SEMP3960  Sempronia (100) Tuditana,Sempronia,-150,-50
+3961,LUTA3961  Lutatia (25),Lutatia,-100,0
+3962,FUFI3962  Fufia (20),Fufia,-100,0
+3963,IUNI3963  Iunia (206) Tertia,Iunia,-75,22
+3964,PILI3964  Pilia (3),Pilia,-125,-25
+3966,POMP3966  Pomponia (A),Pomponia,-100,0
+3967,CALV3967  Calventia (B),Calventia,-175,-75
+3968,POMP3968  Pompeia (53),Pompeia,-100,0
+3969,LAEL3969  Laelia (25),Laelia,-175,-75
+3971,HORT3971  Hortensia (15),Hortensia,-150,-25
+3973,IUNI3973  Iunia (192),Iunia,-100,0
+3978,CAEC3978  Caecilia (124c),Caecilia,-132,-42
+3980,CAEC3980  Caecilia (78) Attica = Pomponia Attica,Caecilia,-125,-28
+3981,OPPI3981  Oppia (37),Oppia,-100,0
+3984,POST3984  Postumia (69),Postumia,-150,-25
+3986,LIVI3986  Livia (B),Livia,-125,-25
+3988,CAEC3988  Caecilia (137) Metella,Caecilia,-75,25
+3991,RUTI3991  Rutilia (38),Rutilia,-175,-75
+3992,SERV3992  Servilia (100),Servilia,-125,-25
+3993,FULV3993  Fulvia (111),Fulvia,-150,-50
+3994,OVIA3994  Ovia (3),Ovia,-125,-25
+3996,CLOD3996  Clodia (65),Clodia,-170,-75
+3999,VENU3999  Venuleia (4),Venuleia,-150,-25
+4004,PUBL4004  Publilia (17),Publilia,-106,-25
+4005,LICI4005  Licinia (184),Licinia,-125,-25
+4007,TULL4007  Tullia (61),Tullia,-125,-25
+4008,CLAU4008  Claudia (389),Claudia,-125,-25
+4009,POPI4009  Popillia (32),Popillia,-163,-75
+4010,TULL4010  Tullia (A),Tullia,-125,-25
+4011,CORN4011  Cornificia (12),Cornificia,-75,25
+4012,PORC4012  Porcia (27),Porcia,-125,-45
+4014,TUTI4014  Tutia (RE VII A.2 1616f.),Tutia,-125,-25
+4015,FADI4015  Fadia (13),Fadia,-83,0
+4020,AEMI4020  Aemilia (152),Aemilia,-200,-100
+4022,AEMI4022  Aemilia (151),Aemilia,-200,-100
+4023,LICI4023  Licinia (179),Licinia,-150,-50
+4027,GRAT4027  Gratidia (5),Gratidia,-225,-100
+4029,CAEC4029  Caecilia (131) Metella,Caecilia,-175,-75
+4030,LICI4030  Licinia (183),Licinia,-125,-25
+4031,MUCI4031  Mucia (27),Mucia,-150,-50
+4032,MUCI4032  Mucia (26),Mucia,-150,-50
+4035,POMP4035  Pompeia (51),Pompeia,-150,-50
+4042,CLAU4042  Claudia (435) Quinta,Claudia,-250,-150
+4043,CLOD4043  Clodia (66),Clodia,-125,-25
+4047,HELV4047  Helvia (18),Helvia,-150,-50
+4049,LUTA4049  Lutatia (24),Lutatia,-125,-25
+4051,AEMI4051  Aemilia (180) Tertia,Aemilia,-200,-100
+4052,CAEC4052  Caecilia (135) Metella,Caecilia,-150,-50
+4053,PINA4053  Pinaria (29),Pinaria,-100,0
+4054,CAEC4054  Caecilia (130) Metella,Caecilia,-175,-75
+4056,CLAU4056  Claudia (386),Claudia,-150,-50
+4058,CLAU4058  Claudia (388),Claudia,-75,25
+4059,RUBR4059  Rubria (25),Rubria,-150,-50
+4062,POMP4062  Pompeia (56),Pompeia,-100,0
+4063,CORN4063  Cornelia (416),Cornelia,-100,0
+4064,EPPU4064  Eppuleia (2),Eppuleia,-150,-50
+4065,AMPI4065  Ampia (3),Ampia,-75,25
+4069,FABI4069  Fabia (173),Fabia,-100,0
+4070,VALE4070  Valeria (394) = Paulla Valeria,Valeria,-100,0
+4075,ALBI4075  Albinia (A),Albinia,-125,-25
+4077,IUNI4077  Iunia (191),Iunia,-150,-50
+4078,HELV4078  Helvia (19),Helvia,-150,-50
+4083,NUMI4083  Numitoria (8),Numitoria,-125,-50
+4085,BAEB4085  Baebia (47b),Baebia,-225,-100
+4086,VALE4086  Valeria (391),Valeria,-125,-25
+4089,FALC4089  Falcidia (A),Falcidia,-75,25
+4091,SEMP4091  Sempronia (99),Sempronia,-200,-100
+4092,VALG4092  Valgia (A),Valgia,-100,-25
+4095,ANTO4095  Antonia (109),Antonia,-125,-25
+4097,CLOD4097  Clodia (67),Clodia,-125,-25
+4099,MARI4099  Maria (74),Maria,-200,-100
+4105,GRAT4105  Gratidia (B),Gratidia,-125,-25
+4110,ANTO4110  Antonia (110),Antonia,-100,0
+4123,QUIN4123  Quinctia (58),Quinctia,-125,-50
+4129,ROSC4129  Roscia (28),Roscia,-125,-50
+4131,RABI4131  Rabiria (8),Rabiria,-125,-25
+4135,SEST4135  Sestia (13),Sestia,-75,25
+4143,ANTO4143  Antonia (111),Antonia,-100,0
+4147,VETT4147  Vettia (19),Vettia,-125,-50
+4148,ANNI4148  Annia (102),Annia,-100,0
+4156,SERV4156  Servilia (98),Servilia,-150,-50
+4164,SULP4164  Sulpicia (111),Sulpicia,-75,25
+4165,AELI4165  Aelia (A),Aelia,-50,50
+4166,TERE4166  Terentia (96),Terentia,-75,25
+4172,SERV4172  Servilia (99),Servilia,-125,-25
+4174,IULI4174  Iulia (550),Iulia,-39,14
+4175,ANTO4175  Antonia (113) maior,Antonia,-50,50
+4179,VIPS4179  Vipsania (1) Agrippina,Vipsania,-50,50
+4182,VIPS4182  Vipsania (4) Polla,Vipsania,-75,25
+4184,IULI4184  Iulia (546),Iulia,-150,-50
+4190,CLAU4190  Claudia (390),Claudia,-75,25
+4191,ANON4191  - (A) Polla,-,-125,-25
+4192,LIVI4192  Livia (37),Livia,-58,29
+4197,CLOD4197  Clodia (72) Tertia,Clodia,-125,-25
+4201,PAPI4201  Papiria (78),Papiria,-250,-159
+4204,MUMM4204  Mummia (A),Mummia,-175,-75
+4206,CLAU4206  Claudia (382),Claudia,-325,-225
+4207,LUCI4207  Lucilia (33),Lucilia,-150,-50
+4210,CORN4210  Cornelia (408),Cornelia,-175,-50
+4214,LICI4214  Licinia (178),Licinia,-250,-154
+4216,HOST4216  Hostilia (27) Quarta,Hostilia,-250,-125
+4219,CALA4219  Calavia (A),Calavia,-275,-175
+4220,CLAU4220  Claudia (383),Claudia,-225,-125
+4228,CORN4228  Cornelia (406),Cornelia,-225,-125
+4229,PORC4229  Porcia (29),Porcia,-75,25
+4232,SEMP4232  Sempronia (101),Sempronia,-100,-25
+4233,ANIC4233  Anicia (18),Anicia,-110,-25
+4235,RUPI4235  Rupilia (12),Rupilia,-175,-75
+4236,CORN4236  Cornelia (414),Cornelia,-100,0
+4241,SULP4241  Sulpicia (A),Sulpicia,-275,-175
+4242,APPU4242  Appuleia (32),Appuleia,-150,-50
+4243,CLOD4243  Clodia (68),Clodia,-125,-50
+4245,LIVI4245  Livia (34),Livia,-175,-75
+4246,POMP4246  Pomponia (28),Pomponia,-275,-175
+4247,LICI4247  Licinia (177),Licinia,-250,-150
+4248,AURE4248  Aurelia (D),Aurelia,-100,0
+4249,VALE4249  Valeria (390),Valeria,-75,25
+4251,OCTA4251  Octavia (95) maior,Octavia,-100,0
+4252,ANCH4252  Ancharia (7),Ancharia,-125,-25
+4253,ANON4253  - (Kleopatra 28) Selene,-,-50,50
+4254,CLAU4254  Claudia (422) Marcella maior,Claudia,-75,25
+4255,CLAU4255  Claudia (423) Marcella minor,Claudia,-75,25
+4258,AURE4258  Aurelia (248),Aurelia,-150,-54
+4259,SERV4259  Servilia (103),Servilia,-100,0
+4260,ATIL4260  Atilia (79),Atilia,-125,-25
+4262,AEMI4262  Aemilia (166) Lepida,Aemilia,-100,0
+4264,SERG4264  Sergia (A),Sergia,-100,0
+4267,TERT4267  Tertulla (20),Tertulla,-150,-25
+4269,SEMP4269  Sempronia (103),Sempronia,-125,-25
+4271,FULC4271  Fulcinia (10),Fulcinia,-200,-100
+4273,FANN4273  Fannia (21),Fannia,-175,-75
+4277,ANTI4277  Antistia (60),Antistia,-100,0
+4278,CALP4278  Calpurnia (125),Calpurnia,-125,-25
+4280,CORN4280  Cornelia (C),Cornelia,-175,-75
+4282,VALE4282  Valeria (389),Valeria,-125,-25
+4284,CORN4284  Cornelia (448) Postuma,Cornelia,-78,0
+4285,CLOE4285  Cloelia (14),Cloelia,-138,-50
+4286,ILIA4286  Ilia (2),Ilia,-150,-50
+4287,AELI4287  Aelia (164),Aelia,-138,-50
+4288,ANTI4288  Antistia (59),Antistia,-225,-100
+4289,HORT4289  Hortensia (16),Hortensia,-100,0
+4290,LIBU4290  Liburnia (A),Liburnia,-125,-25
+4291,HIRT4291  Hirtia (5),Hirtia,-79,0
+4292,VALE4292  Valeria (392),Valeria,-75,25
+4293,CORN4293  Cornelia (409),Cornelia,-175,-75
+4295,MEMM4295  Memmia (38),Memmia,-100,0
+4303,LUCI4303  Lucilia (34),Lucilia,-150,-50
+4304,SERV4304  Servilia (104),Servilia,-125,-30
+4305,COSS4305  Cossutia (7),Cossutia,-100,-25
+4306,LOLL4306  Lollia (29),Lollia,-75,25
+4307,MARC4307  Marcia (113),Marcia,-150,-50
+4309,AUFI4309  Aufidia (A),Aufidia,-100,-25
+4312,ALFI4312  Alfidia (3),Alfidia,-100,-25
+4313,VALE4313  Valeria (402) Messallina,Valeria,-50,50
+4316,LIVI4316  Livia (41) Ocellina,Livia,-50,50
+4318,MUMM4318  Mummia (26) Achaica,Mummia,-100,0
+4320,AELI4320  Aelia (B),Aelia,-125,-25
+4323,AEMI4323  Aemilia (170) Lepida,Aemilia,-50,50
+4327,MARC4327  Marcia (120),Marcia,-75,25
+4331,CLAU4331  Claudia (434) Pulchra,Claudia,-75,25
+4334,QUIN4334  Quinctilia (30),Quinctilia,-75,25
+4337,SEXT4337  Sextia (44),Sextia,-50,50
+4340,FABI4340  Fabia (171),Fabia,-375,-275
+4341,ANTO4341  Antonia (108),Antonia,-100,0
+4343,PORC4343  Porcia (30),Porcia,-75,25
+4351,OTAC4351  Otacilia (19),Otacilia,-150,-50
+4352,AFRA4352  Afrania (17),Afrania,-125,-50
+4353,FUND4353  Fundania (8),Fundania,-75,25
+4354,COSS4354  Cossinia (A),Cossinia,-100,-25
+4357,QUIN4357  Quinctilia (29),Quinctilia,-75,25
+4359,ANNI4359  Annia (101),Annia,-150,-50
+4364,MUNA4364  Munatia (41),Munatia,-125,-25
+4365,COPO4365  Coponia (A),Coponia,-75,-25
+4633,AEMI4633  Aemilia (150b),Aemilia,-219,-125
+4638,ANON4638  - (Kalliphana) Calliphana,-,-150,-25
+4639,CAPA4639  Caparronia (not in RE),Caparronia,-275,-266
+4641,CASP4641  Casponia (not in RE) P. f. Maxima,Casponia,-125,-25
+4651,FAVO4651  Favonia (not in RE) M. f.,Favonia,-125,-25
+4669,"PUBL4669  Publicia (26, Publilia 16)",Publicia,-200,-154
+4672,SULP4672  Sulpicia (82),Sulpicia,-325,-225
+4676,USIA4676  Usia (not in RE) Prima,Usia,-100,25
+4683,CAUD4683  Caudina (not in RE) C. f.,Caudina,-100,0
+4693,DOMI4693  Domitia (102) Lepida,Domitia,-25,54
+4710,AURE4710  Aurelia (A) Orestilla,Aurelia,-150,-50
+4719,MINU4719  Minucia (71),Minucia,-100,0
+4722,ANON4722  - (Kleopatra 20) Philopater,-,-69,-30
+4729,CORN4729  Cornelia (419),Cornelia,-100,0
+4730,SEMP4730  Sempronia (A) Atratina,Sempronia,-50,50
+4731,APPU4731  Appuleia (33) Varilla,Appuleia,-50,50
+4733,QUIN4733  Quinctilia (30a),Quinctilia,-75,25
+4735,CORN4735  Cornelia (A),Cornelia,-100,0
+4740,DOMI4740  Domitia (91),Domitia,-50,50
+4742,QUIN4742  Quinctia (60),Quinctia,-50,50
+4747,NONI4747  Nonia (C),Nonia,-100,0
+4749,CLUE4749  Cluentia (5),Cluentia,-125,-50
+4750,MAGI4750  Magia (20),Magia,-125,-50
+4751,NOVI4751  Novia (26),Novia,-125,-50
+4752,SASS4752  Sassia (1),Sassia,-150,-50
+4759,CORN4759  Cornelia (411),Cornelia,-125,-25
+4761,VATI4761  Vatiena (A),Vatiena,-175,-75
+4762,CAEC4762  Caecilia (136) Metella,Caecilia,-75,25
+4765,OCTA4765  Octavia (94),Octavia,-75,25
+4766,CALP4766  Calpurnia (A),Calpurnia,-75,25
+4767,PAUL4767  Popillia (33) = Paulla Popillia,Popillia,-125,-25
+4775,DOMI4775  Domitia (94) Calvina,Domitia,-50,50
+4776,DOMI4776  Domitia (93) Calvina,Domitia,-75,25
+4783,CORN4783  Cornelia (415),Cornelia,-100,0
+4790,PAUL4790  Cassia (B) = Paulla Cassia,Cassia,-25,75
+4791,SULP4791  Sulpicia (B),Sulpicia,-75,25
+4792,CALP4792  Calpurnia (127),Calpurnia,-25,75
+4797,VIBI4797  Vibia (cf. 97),Vibia,-150,-50
+4806,CORN4806  Cornelia (445) = Paulla Cornelia,Cornelia,-225,-125
+4814,FABI4814  Fabia (168),Fabia,-400,-300
+4815,FABI4815  Fabia (169),Fabia,-400,-300
+4820,MARI4820  Maria (73),Maria,-175,-75
+4825,SEMP4825  Sempronia (108) Atratina,Sempronia,-50,50
+4830,ATIA4830  Atia (35) minor,Atia,-89,-25
+4832,DURO4832  Duronia (4),Duronia,-275,-175
+4851,FONT4851  Fonteia (A),Fonteia,-100,-25
+4871,SULP4871  Sulpicia (108),Sulpicia,-219,-125
+4911,MINU4911  Minucia (69),Minucia,-75,25
+4913,VALE4913  Valeria (395) Polla,Valeria,-75,25
+4914,SAUF4914  Saufeia (B),Saufeia,-150,-50
+4915,TERE4915  Terentia (100),Terentia,-175,-75
+4923,MANL4923  Manlia (107),Manlia,-75,25
+4926,MANL4926  Manlia (BP),Manlia,-100,-25
+4931,SALL4931  Sallustia (40),Sallustia,-100,0
+4939,SENT4939  Sentia (15),Sentia,-150,-50
+4940,TERE4940  Terentia (98),Terentia,-75,25
+4946,SALV4946  Salvidiena (5),Salvidiena,-50,50
+4947,VIPS4947  Vipsania (Agrippina 2) Agrippina,Vipsania,-50,50
+4948,VIPS4948  Vipsania (Iulia 551) Iulia,Vipsania,-50,50
+4978,HIRT4978  Hirtuleia (not in RE),Hirtuleia,-150,-75
+4981,SULP4981  Sulpicia (114),Sulpicia,-50,50
+4982,TERE4982  Terentia (102a) Hispulla,Terentia,-75,25
+4983,SULP4983  Sulpicia (110),Sulpicia,-100,-25
+5012,LICI5012  Licinia (186),Licinia,-100,0
+5019,RACI5019  Racilia (2),Racilia,-550,-425
+5020,VALE5020  Valeria (386),Valeria,-525,-425
+5021,VERG5021  Verginia (24),Verginia,-475,-375
+5022,VERG5022  Verginia (25),Verginia,-350,-275
+5025,VETU5025  Veturia (24),Veturia,-575,-475
+5161,CAES5161  Caesennia (14),Caesennia,-175,-25
+5189,ANNA5189  Annaea (20),Annaea,-125,-25
+5199,AURI5199  Auria (7),Auria,-125,-25
+5223,CLUE5223  Cluentia (6),Cluentia,-100,-1
+5263,LAMI5263  Lamia (6),Lamia,-125,-25
+5291,PALL5291  Palla (3),Palla,-125,-25
+5292,PAPI5292  Papia (15),Papia,-125,-25
+5320,SCAN5320  Scantia (1),Scantia,-125,-25
+5419,CAER5419  Caerellia (10),Caerellia,-125,-25
+5465,GELL5465  Gellia (cf. 15) Cana,Gellia,-100,-1
+5481,LICI5481  Licinia (187),Licinia,-125,-25
+5487,LIVI5487  Livia (not in RE),Livia,-125,-25
+5517,"OPPI5517  Oppia (40, suppl. X)",Oppia,-125,-25
+5558,SEPT5558  Septimia (75),Septimia,-125,-25
+5591,TURP5591  Turpilia (13),Turpilia,-125,-25
+5611,VISE5611  Visellia (4),Visellia,-125,-25
+5621,CAEC5621  Caecilia (133) Metella,Caecilia,-200,-1
+5634,IUNI5634  Iunia (190),Iunia,-200,-91
+5675,TITI5675  Titinia (26),Titinia,-125,-25
